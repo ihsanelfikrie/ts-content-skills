@@ -1,4 +1,4 @@
-# Simulasi Percakapan: Workflow 3 Fase
+# Simulasi Percakapan: Workflow 3 Fase (Dengan Katalog Tipe Konten)
 
 Berikut adalah contoh simulasi percakapan lengkap antara Pengguna dan AI **Tegoer Sapa Content Strategist** untuk cabang **Hotel Room 605 (Aime Coffee)**.
 
@@ -29,38 +29,38 @@ Berikut adalah contoh simulasi percakapan lengkap antara Pengguna dan AI **Tegoe
 > Kita angkat masalah nomor 2, soal keraguan pencahayaan (takut gelap vs lampu spotlight).
 
 **Claude / AI:**
-> Pilihan yang mantap! Ini 2 opsi konsep konten untuk membedah masalah pencahayaan di Hotel Room 605:
+> Pilihan yang mantap! Ini 2 opsi konsep konten dari **Katalog Tipe Konten** untuk membedah masalah pencahayaan di Hotel Room 605:
 >
 > ---
 >
 > ### **Opsi A (Video Reels / TikTok)**
-> - **Tipe Tren**: Edukasi / Reveal POV (*Before vs After Comparison*).
-> - **Hook (0-3 Detik)**:
->   - *Visual*: Model cewek berdiri di depan pintu kamar 605 dengan ekspresi ragu, teks besar di layar.
->   - *Text Overlay*: *"Jangan masuk Room 605 kalau kamu nggak tahu tombol rahasia ini!"*
+> - **Tipe Video**: **Talking Head / Edukasi Cepat**
+> - **Hook (3 Detik Pertama)**:
+>   - *Visual*: Kreator memegang tombol lampu di dinding bilik Room 605, menatap kamera dengan ekspresi penasaran.
+>   - *Text Overlay*: *"Jangan foto di Room 605 sebelum tahu fungsi saklar ini!"*
 > - **Alur Adegan Visual**:
->   - **Scene 1 (Detik 0-3)**: Model masuk bilik foto, melihat tombol lampu dengan ragu.
->   - **Scene 2 (Detik 4-8)**: Tunjukkan perbandingan: Lampu Normal (terang bersih, cocok untuk casual ceria) vs Lampu Spotlight (kontras dramatis, vibe editorial misterius).
->   - **Scene 3 (Detik 9-13)**: Hasil cetak foto dipegang berdampingan di depan cermin kamar.
->   - **CTA (Detik 14-15)**: Text *"Mulai Rp25k di Aime Coffee, kamu tim Normal atau Spotlight?"*
-> - **Ide Audio**: Backsound tren lo-fi / chic beat dengan transisi efek suara *click switch* saat lampu berganti.
+>   - **Scene 1 (Detik 0-3)**: Kreator menyalakan mode Lampu Normal, menunjukkan hasil wajah cerah merata dan natural tanpa bayangan keras.
+>   - **Scene 2 (Detik 4-8)**: Kreator menggeser ke mode Lampu Spotlight dramatis, memperlihatkan aura moody sinematik dengan latar belakang temaram.
+>   - **Scene 3 (Detik 9-12)**: Tunjukkan angle kamera kiri vs kanan agar audiens bisa memilih sisi wajah terbaik (*best angle*).
+>   - **CTA (Detik 13-15)**: Kreator memegang hasil cetak frame kalender (Mulai Rp25k di Aime Coffee).
+> - **Ide Audio**: Backsound tren beat lo-fi modern dengan sound effect "klik" tajam saat saklar lampu diganti.
 >
 > ---
 >
 > ### **Opsi B (Carousel Feed)**
-> - **Tipe Desain**: Editorial Majalah Minimalis dengan aksen warna warm gold dan hitam elegan.
+> - **Tipe Feed**: **Infografis / Checklist**
 > - **Headline Slide 1**:
->   *"Dikira Gelap, Ternyata Malah Bikin Wajah Glowing? 💡"* (Foto close-up hasil cetak dengan framing frame kalender).
+>   *"3 Tips Dapet Lighting Sempurna di Hotel Room 605 (Anti Wajah Kusam!)"* 
 > - **Struktur Copywriting per Slide**:
->   - **Slide 1**: Hook visual + headline pemicu penasaran.
->   - **Slide 2**: Myth vs Fact: Mitos Room 605 remang-remang vs Fakta lampu dual mode.
->   - **Slide 3**: Bedah Mode Normal — kapan waktu terbaik menggunakannya (foto bareng geng / cerah).
->   - **Slide 4**: Bedah Mode Spotlight — vibe sinematik ala poster film/editorial.
->   - **Slide 5**: Bonus kenyamanan: gantungan tas & harga mulai Rp25.000.
->   - **Slide 6 (CTA)**: *"Tag teman kamu yang hobi foto estetik tapi takut zonk lighting!"*
+>   - **Slide 1**: Cover visual estetik tombol lampu + headline bold.
+>   - **Slide 2 (Tips 1)**: Pilih Mode Normal untuk tone kulit cerah, bersih, dan segar.
+>   - **Slide 3 (Tips 2)**: Coba Mode Spotlight jika mau vibe misterius & cinematic ala editorial majalah.
+>   - **Slide 4 (Tips 3)**: Manfaatkan opsi kamera kiri/kanan sesuai best profile wajahmu.
+>   - **Slide 5 (Bonus Info)**: Ada rak khusus tas bawaan + harga super terjangkau mulai Rp25.000.
+>   - **Slide 6 (CTA)**: *"Simpan panduan ini buat referensi pas kamu ke Aime Coffee bareng doi/bestie!"*
 > - **Arahan Elemen Visual**:
->   - Palet warna: Cream (#F5EBE0), Charcoal (#2B2B2B), Warm Gold (#D4AF37).
->   - Vektor tipis elegan, panah petunjuk fitur, foto resolusi tinggi hasil printout asli.
+>   - Palet warna: Cream Warm (#F5EBE0), Charcoal (#212529), dan Golden Amber (#E0A96D).
+>   - Gunakan layout kartu bergaya minimalis modern dengan panah penunjuk fitur dan foto hasil cetak beresolusi tajam.
 >
 > ---
 >
@@ -71,13 +71,13 @@ Berikut adalah contoh simulasi percakapan lengkap antara Pengguna dan AI **Tegoe
 ### [Putaran 3: Fase 3 - Persiapan Ekspor]
 
 **User:**
-> Keren banget! Bungkus opsi A ya.
+> Bungkus opsi A ya!
 
 **Claude / AI:**
 > Sip! Ini rangkuman draf final yang siap disalin:
 >
 > | Tanggal | Cabang | Format Konten | Hook / Headline | Arahan Visual / Desain |
 > |---|---|---|---|---|
-> | 08/10/2026 | Hotel Room 605 (Aime Coffee) | Video Reels / TikTok | "Jangan masuk Room 605 kalau kamu nggak tahu tombol rahasia ini!" | Video komparasi POV 15 detik: Tunjukkan transisi perbedaan Lampu Normal (natural glow) vs Lampu Spotlight (cinematic dramatic). Sorot aksi ganti mode lampu, angle kamera kiri/kanan, dan diakhiri pamer hasil cetak frame kalender (Mulai Rp25k). |
+> | 08/10/2026 | Hotel Room 605 (Aime Coffee) | Video Reels / TikTok (Talking Head / Edukasi Cepat) | "Jangan foto di Room 605 sebelum tahu fungsi saklar ini!" | Video edukasi 15 detik: Talent membedah saklar lampu ganda (Normal vs Spotlight) dan angle kamera kiri/kanan. Shoot perbandingan wajah di tiap mode pencahayaan, lalu tutup dengan pamer hasil cetak frame kalender mulai Rp25.000. |
 >
 > Tabel sudah siap disalin ke Google Docs!

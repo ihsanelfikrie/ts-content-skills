@@ -1,13 +1,14 @@
 # 📸 Tegoer Sapa Content Strategist — Claude Skill & Subagent
 
-Repository resmi untuk instruksi, knowledge base, dan SOP subagent AI **"Tegoer Sapa Content Strategist"**. Dirancang khusus untuk memandu pembuatan konten media sosial (Instagram Reels, TikTok, Carousel Feed) untuk seluruh cabang **Tegoer Sapa Photobooth** di area Banjarbaru.
+Repository resmi untuk instruksi, knowledge base, katalog konten, dan SOP subagent AI **"Tegoer Sapa Content Strategist"**. Dirancang khusus untuk memandu pembuatan konsep media sosial (Instagram Reels, TikTok, Carousel Feed) untuk seluruh cabang **Tegoer Sapa Photobooth** di area Banjarbaru.
 
 ---
 
-## 🎯 Tujuan & Nilai Utama
-1. **Memudahkan Tim Desainer & Kreator**: Output dirancang detail dan spesifik, bukan teks copywriting umum, melainkan panduan visual riil (shot-by-shot, elemen grafis, tipe vektor, palet warna).
-2. **Berorientasi Masalah Nyata (Discovery First)**: Membedah keresahan terpendam audiens (harga, durasi, rasa canggung/kaku, privasi) sebelum membuat konten.
-3. **Alur Kerja Terstandarisasi (3-Phase SOP)**: Menjamin proses ideasi yang rapi, interaktif, dan mudah diekspor ke tabel dokumen kerja (Google Docs / Notion).
+## 🎯 Nilai Utama
+1. **Memudahkan Tim Desainer & Kreator**: Output dirancang detail dan spesifik, bukan sekadar teks copywriting umum, melainkan instruksi syuting shot-by-shot dan panduan grafis siap eksekusi.
+2. **Katalog Konten Terintegrasi**: Memastikan variasi format konten video (POV, Talking Head, BTS, Mini Vlog, Skit, Transisi) dan feed (Infografis, Meme, Lookbook, Q&A, Hard Selling) agar kalender konten tidak monoton.
+3. **Berorientasi Masalah Nyata (Discovery First)**: Mengupas tuntas keresahan audiens (harga, durasi, privasi, rasa canggung/kaku) sebelum masuk ideasi.
+4. **Alur Kerja Terstandarisasi (3-Phase SOP)**: Interaktif bertahap dan siap ekspor langsung ke tabel Google Docs / Notion.
 
 ---
 
@@ -15,17 +16,18 @@ Repository resmi untuk instruksi, knowledge base, dan SOP subagent AI **"Tegoer 
 
 ```text
 Tegoersapa content skills/
-├── README.md               # Dokumentasi lengkap repository & panduan penggunaan
-├── SKILL.md                # Spesifikasi standar Skill dengan YAML frontmatter
-├── SYSTEM_PROMPT.md        # Prompt mentah siap copy-paste ke Claude Projects / Custom Instructions
-├── CLAUDE.md               # Petunjuk operasional Claude saat bekerja di repo ini
-├── .gitignore              # Konfigurasi ignore file macOS / cache
-├── knowledge/              # Basis pengetahuan & data pendukung
-│   ├── branches.md         # Detail spesifikasi 5 cabang & fitur khasnya
-│   ├── audience.md         # Profil persona UIN Antasari & Gen Z Banjarbaru
-│   └── workflow_sop.md     # Panduan rinci SOP 3 Fase (Discovery → A/B → Ekspor)
+├── README.md                 # Dokumentasi lengkap repository & panduan integrasi
+├── SKILL.md                  # Spesifikasi resmi Skill dengan YAML frontmatter
+├── SYSTEM_PROMPT.md          # Prompt mentah siap copy-paste ke Claude Projects / Custom Instructions
+├── CLAUDE.md                 # Petunjuk operasional Claude saat bekerja di repo ini
+├── .gitignore                # Konfigurasi ignore file macOS / cache
+├── knowledge/                # Basis pengetahuan & data pendukung
+│   ├── branches.md           # Detail spesifikasi 5 cabang & fitur khasnya
+│   ├── audience.md           # Profil persona UIN Antasari & Gen Z Banjarbaru
+│   ├── content_catalog.md    # Katalog format video pendek & carousel feed
+│   └── workflow_sop.md       # Panduan rinci SOP 3 Fase (Discovery → A/B → Ekspor)
 └── examples/
-    └── simulasi_chat.md    # Contoh dialog lengkap dari Fase 1 sampai Fase 3
+    └── simulasi_chat.md      # Contoh dialog lengkap dari Fase 1 sampai Fase 3
 ```
 
 ---
@@ -35,7 +37,7 @@ Tegoersapa content skills/
 ### Opsi 1: Claude.ai (Web / Pro / Team Projects)
 1. Buka [Claude.ai](https://claude.ai) dan buat **Project** baru (misal: *"Tegoer Sapa Creative Lab"*).
 2. Di bagian **Set Custom Instructions** (Project Instructions), buka file [`SYSTEM_PROMPT.md`](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md) lalu salin seluruh isinya.
-3. Di bagian **Project Knowledge**, Anda bisa mengunggah file-file di folder `knowledge/` (`branches.md`, `audience.md`, `workflow_sop.md`).
+3. Di bagian **Project Knowledge**, Anda bisa mengunggah file-file dari folder `knowledge/` (`branches.md`, `content_catalog.md`, `audience.md`, `workflow_sop.md`).
 4. Mulai percakapan dengan menyebutkan nama cabang (misal: *"Hari ini kita mau bikin konten Hatara Coffee"*).
 
 ### Opsi 2: Claude Desktop / Claude Custom Instructions
@@ -44,20 +46,26 @@ Tegoersapa content skills/
 3. Tempelkan teks dari [`SYSTEM_PROMPT.md`](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md).
 
 ### Opsi 3: Claude Code / Antigravity / Cursor IDE
-1. Jadikan folder `Tegoersapa content skills` sebagai workspace Anda.
-2. Asisten AI akan otomatis membaca petunjuk dari [`CLAUDE.md`](file:///Users/macbook/Tegoersapa%20content%20skills/CLAUDE.md) dan [`SKILL.md`](file:///Users/macbook/Tegoersapa%20content%20skills/SKILL.md).
+1. Buka folder `Tegoersapa content skills` sebagai active workspace Anda.
+2. Asisten AI akan otomatis mematuhi aturan kerja di [`CLAUDE.md`](file:///Users/macbook/Tegoersapa%20content%20skills/CLAUDE.md) dan [`SKILL.md`](file:///Users/macbook/Tegoersapa%20content%20skills/SKILL.md).
 
 ---
 
-## 🏢 Knowledge Base Ringkas: 5 Cabang Tegoer Sapa
+## 💡 Katalog Tipe Konten (Fase 2)
 
-| Cabang | Lokasi Mitra | Fitur Kunci & Keunikan | Frame & Suasana |
-|---|---|---|---|
-| **Grandpa's House** | Hatara Coffee | Fasad kayu vintage, jendela interaktif, QR antrean online, zoom/mirror kamera, filter vintage | Frame Ayam Jago / Tekstur Kayu |
-| **Twin Photobox** | Nolima Coffee | Ruangan mini ganda, 2 kamera, cermin gelombang hijau (*wavy mirror*), retake per kamera (Rp35k / 5 mnt) | Cermin gelombang hijau |
-| **Hotel Room 605** | Aime Coffee | Pintu kamar hotel 605, mirror selfie, gantungan tas, Lampu Normal & Spotlight, kamera kiri/kanan (Mulai Rp25k) | Frame Kalender unik |
-| **Library Theme** | Warkop Sirkem | Rak buku perpustakaan klasik, piringan vinyl Arctic Monkeys & The 1975, convex mirror, kacamata retro | Frame "SOERAT KABAR" |
-| **Kean Coffee** | Kean Coffee | All payment (QRIS / Cash), bola disko gantung, tirai marun & krem, Spotlight / Room Light, retake sepuasnya (Rp33k / 5 mnt) | Sparkling disco vibe |
+| Format | Kategori | Penjelasan Ringkas & Contoh |
+|---|---|---|
+| **Video Pendek** | **POV** | Pengalaman langsung orang pertama (*"POV nemu hidden gem photobox"*). |
+| | **Talking Head** | Edukasi kilat bicara ke kamera membedah fitur/tips pose. |
+| | **BTS** | Keseruan di balik bilik & proses mesin cetak foto. |
+| | **Mini Vlog** | Cerita nongkrong di kafe mitra ditutup sesi foto. |
+| | **Skit / Sketsa** | Komedi singkat seputar kecanggungan pose/rebutan frame. |
+| | **Trend Transisi** | Transisi mulus diiringi hentakan audio viral. |
+| **Carousel Feed** | **Infografis** | Panduan visual bertahap / checklist tips lighting & pose. |
+| | **Meme / Humor** | Validasi keresahan audiens lewat humor pop-culture. |
+| | **Lookbook Pose** | Grid referensi foto asli pengunjung (bareng doi/bestie). |
+| | **Q&A Slide** | FAQ cara bayar, durasi waktu, dan nomor antrean. |
+| | **Hard Selling** | Tampilan harga menonjol (Rp25k / Rp35k) & promo frame baru. |
 
 ---
 
@@ -70,7 +78,9 @@ Tegoersapa content skills/
 
 2. **Fase 2: Ideasi A/B Testing**
    - Input: Nomor masalah yang dipilih.
-   - Output: **Opsi A** (Video Reels/TikTok) dan **Opsi B** (Carousel Feed) lengkap instruksi visual.
+   - Output: Memilih tipe dari Katalog Konten:
+     - **Opsi A (Video Reels/TikTok)**: Sebutkan `[Tipe Video yang dipilih dari katalog]`, Hook, Alur Adegan Visual, Ide Audio.
+     - **Opsi B (Carousel Feed)**: Sebutkan `[Tipe Feed yang dipilih dari katalog]`, Headline Slide 1, Struktur Copywriting per slide, Arahan Elemen Visual.
    - Penutup: *"Ide ini sudah pas, atau ada yang perlu direvisi sebelum masuk draf final?"*
 
 3. **Fase 3: Persiapan Ekspor (Draft Final)**
@@ -80,5 +90,10 @@ Tegoersapa content skills/
 
 ---
 
-## 👥 Kontributor & Hak Cipta
-Dikelola untuk tim kreatif & operasional **Tegoer Sapa Photobooth** — Banjarbaru, Kalimantan Selatan.
+## 🏢 5 Cabang Tegoer Sapa
+
+1. **Grandpa's House (Hatara Coffee)**: Fasad rumah kayu, jendela interaktif, QR antrean online, zoom/mirror, filter vintage, frame ayam jago/kayu.
+2. **Twin Photobox (Nolima Coffee)**: 2 ruangan mini bersebelahan, 2 kamera, cermin gelombang hijau, retake per kamera, Rp35.000, batas 5 menit.
+3. **Hotel Room 605 (Aime Coffee)**: Pintu hotel klasik, mirror selfie, gantungan tas, Normal/Spotlight, angle kiri/kanan, frame kalender, mulai Rp25.000.
+4. **Library Theme (Warkop Sirkem)**: Rak buku tebal, vinyl Arctic Monkeys & The 1975, convex mirror, kacamata hitam, tirai damask, frame "SOERAT KABAR".
+5. **Kean Coffee**: All payment (QRIS/Cash), tirai marun/krem, bola disko, mode Spotlight/Room Light, retake sepuasnya (5 menit), Rp33.000.
