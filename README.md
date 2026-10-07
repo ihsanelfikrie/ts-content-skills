@@ -90,10 +90,10 @@ Tegoersapa content skills/
 
 ---
 
-## 🏢 5 Cabang Tegoer Sapa
+## 🏢 5 Cabang & Fitur Tegoer Sapa Photobooth
 
-1. **Grandpa's House (Hatara Coffee)**: Fasad rumah kayu, jendela interaktif, QR antrean online, zoom/mirror, filter vintage, frame ayam jago/kayu.
-2. **Twin Photobox (Nolima Coffee)**: 2 ruangan mini bersebelahan, 2 kamera, cermin gelombang hijau, retake per kamera, Rp35.000, batas 5 menit.
-3. **Hotel Room 605 (Aime Coffee)**: Pintu hotel klasik, mirror selfie, gantungan tas, Normal/Spotlight, angle kiri/kanan, frame kalender, mulai Rp25.000.
-4. **Library Theme (Warkop Sirkem)**: Rak buku tebal, vinyl Arctic Monkeys & The 1975, convex mirror, kacamata hitam, tirai damask, frame "SOERAT KABAR".
-5. **Kean Coffee**: All payment (QRIS/Cash), tirai marun/krem, bola disko, mode Spotlight/Room Light, retake sepuasnya (5 menit), Rp33.000.
+1. **Grandpa's House (Hatara Coffee — Jl. Kembang Bakung No. 12)**: Fasad rumah kayu vintage, jendela kayu (krepyak) interaktif (bisa buka-tutup untuk pose luar-dalam), QR antrean online (santai ngopi tanpa antre berdiri), layar sentuh zoom in/out & mirror, filter Original/Vintage, frame mangkok ayam jago & tekstur kayu klasik.
+2. **Twin Photobox (Nolima Coffee)**: Twin photobox pertama di Banjarbaru, tirai merah & properti cermin gelombang hijau (*green wavy mirror*), 2 ruangan mini bersebelahan dengan 2 kamera terpisah (Rp35.000 / 5 mnt, countdown 10 detik/take), retake spesifik pada take terakhir (bebas pilih ulang kamera kiri atau kanan).
+3. **Hotel Room Concept (Aime Coffee)**: Fasad pintu kamar hotel klasik nomor 605, interior penuh cermin untuk mirror selfie, rak tas khusus, harga mulai Rp25.000, lampu Normal (santai) vs Spotlight (tegas/studio), opsi angle kamera kiri/kanan, frame kalender unik.
+4. **Library Theme (Warkop Sirkem)**: Estetika perpustakaan klasik / dark academia, rak buku ensiklopedia & majalah fashion (Vogue, Dior), piringan hitam (Arctic Monkeys, The 1975), camcorder lawas, kacamata hitam, convex mirror, tirai damask, tombol fisik Cut & Mirror On/Off, lampu sorot teater, frame koran tempo dulu ("SOERAT KABAR" / "TODAY IN HISTORY").
+5. **Kean Coffee Branch (Kean Coffee)**: Tirai marun & krem geser, bola disko gantung (*sparkling disco ball*), convex mirror, sistem pembayaran All Payment (QRIS di monitor atau cash di kasir), Rp33.000 / 5 menit, **retake sepuasnya** selama 5 menit, mode Spotlight & Room Light, filter Original/Polaroid/Sepia/Grayscale.

@@ -25,12 +25,33 @@ Output kamu dirancang khusus untuk memudahkan seorang desainer grafis dan video 
 ---
 
 ## 3. Knowledge Base: Cabang & Fitur
+Saat memberikan ide, kamu **wajib menyesuaikan konteks promosi dengan identitas spesifik dari masing-masing cabang**:
 
-1. **Grandpa's House (Hatara Coffee)**: Fasad rumah kayu, properti jendela interaktif, QR antrean online (bisa nongkrong dulu), opsi zoom/mirror, filter vintage, frame ayam jago/kayu.
-2. **Twin Photobox (Nolima Coffee)**: 2 ruangan mini bersebelahan, 2 kamera, cermin gelombang hijau, retake per kamera, Rp35.000, batas 5 menit.
-3. **Hotel Room 605 (Aime Coffee)**: Pintu hotel klasik, banyak cermin untuk mirror selfie, tempat menaruh tas, lampu Normal/Spotlight, opsi angle kamera kiri/kanan, frame kalender, mulai Rp25.000.
-4. **Library Theme (Warkop Sirkem)**: Rak buku tebal, piringan hitam (Arctic Monkeys, The 1975), kacamata hitam, convex mirror, lampu sorot, tirai damask, frame eksklusif "SOERAT KABAR".
-5. **Kean Coffee**: All payment (QRIS/Cash), tirai marun/krem, bola disko, mode Spotlight/Room Light, retake sepuasnya (5 menit), Rp33.000.
+1. **Grandpa's House (Tegoer Sapa x Hatara Coffee)**:
+   - **Lokasi**: Jl. Kembang Bakung No. 12, Banjarbaru.
+   - **Tema & Visual**: Desain eksterior rumah kayu klasik bernuansa vintage yang homey.
+   - **Fitur Unik**: Properti jendela kayu (krepyak) interaktif yang bisa dibuka-tutup sehingga pelanggan bisa berpose dari luar ke dalam boks atau sebaliknya. Terdapat sistem antrean online via QR Code (pelanggan bisa menunggu sambil ngopi di kafe).
+   - **Kamera & Output**: Layar sentuh dengan opsi zoom in/out, mirrored/no, filter Original atau Vintage, serta special frame bertema klasik (elemen kayu dan motif mangkok ayam jago).
+
+2. **Twin Photobox (Tegoer Sapa x Nolima Coffee)**:
+   - **Tema & Visual**: Twin photobox pertama di Banjarbaru. Menggunakan tirai merah dan properti cermin bergelombang warna hijau di area luar.
+   - **Fitur Unik**: Terdiri dari 2 ruangan boks kayu mini yang bersebelahan dengan 2 kamera terpisah.
+   - **Sistem & Kamera**: Harga Rp35.000/sesi (durasi 5 menit). Terdapat hitung mundur 10 detik per take. Fitur retake sangat spesifik: pada take terakhir, pelanggan bisa memilih kamera sebelah mana (kiri atau kanan) yang ingin diulang.
+
+3. **Hotel Room Concept (Tegoer Sapa x Aime Coffee)**:
+   - **Tema & Visual**: Mengusung desain fasad pintu kamar hotel klasik bernomor "605". Interior dipenuhi banyak cermin yang sangat cocok untuk mirror selfie.
+   - **Fitur Unik**: Tersedia rak khusus di dalam boks untuk meletakkan tas.
+   - **Kamera & Output**: Harga mulai dari Rp25.000. Pelanggan bisa mengatur jenis lampu (Normal untuk vibe santai, atau Spotlight untuk vibe studio teges) dan memilih angle kamera (kiri/kanan). Terdapat variasi frame unik seperti bentuk kalender.
+
+4. **Library Theme (Tegoer Sapa x Warkop Sirkem)**:
+   - **Tema & Visual**: Estetika perpustakaan klasik / dark academia. Dinding utama berupa rak buku penuh ensiklopedia dan buku fashion (Vogue, Dior).
+   - **Properti & Dekorasi**: Piringan hitam (Arctic Monkeys, The 1975), kaset pita, camcorder lawas, kacamata hitam, convex mirror (cermin cembung), dan tirai damask sebagai opsi latar belakang.
+   - **Kamera & Output**: Terdapat tombol fisik untuk mengatur pencahayaan (Cut & Mirror On/Off) serta lampu sorot dramatis. Hasil cetak eksklusif menggunakan frame berdesain tata letak koran lawas ("SOERAT KABAR" / "TODAY IN HISTORY") dengan tajuk berita jenaka.
+
+5. **Kean Coffee Branch (Tegoer Sapa x Kean Coffee)**:
+   - **Tema & Visual**: Area photobooth dilengkapi tirai dua warna (merah marun dan krem) yang bisa digeser, bola disko di langit-langit, dan convex mirror.
+   - **Fitur Unik**: Sistem pembayaran terintegrasi penuh (All Payment): QRIS langsung di layar boks atau pembayaran tunai via kasir kafe.
+   - **Sistem & Kamera**: Harga Rp33.000/sesi. Durasi batas waktu 5 menit dengan kebebasan retake (foto ulang) sepuasnya selama waktu masih ada. Dua mode lampu (Spotlight & Room Light) serta opsi filter (Original, Polaroid, Sepia, Grayscale).
 
 ---
 
