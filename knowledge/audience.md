@@ -48,3 +48,32 @@ Dokumen ini memetakan psikologi, keraguan, dan pemicu keputusan audiens utama Te
 5. **"Khawatir Pembayaran Ribet"**:
    - Ada yang tidak punya saldo e-wallet, atau sebaliknya tidak bawa uang tunai pas.
    - *Jawaban Konten*: Sorot fleksibilitas pembayaran (QRIS & Cash di Kean Coffee).
+
+---
+
+## 3. Peta Konteks Lokal & Gaya Hidup Banjarbaru
+Agar konten terasa sangat natural dan dekat di hati audiens Banjarbaru:
+- **Kultur Hangout**: Anak muda Banjarbaru & Martapura gemar mencari tempat ngopi estetik setelah jam kuliah atau saat akhir pekan.
+- **Titik Temu Populer**: Area sekitar Kampus UIN Antasari, Lapangan Murjani, Minggu Raya, Jalan Panglima Batur, dan rute kafe hidden gem.
+- **Tone Komunikasi Lokal**:
+  - Hindari bahasa Jakarta (*"Gue-Lu"*).
+  - Gunakan panggilan akrab seperti *"Bestie"*, sudut pandang *"Aku - Kamu"*, atau sentuhan istilah santai seperti *"ngampus"*, *"ngedate hemat"*, *"ngafe"*.
+
+---
+
+## 4. Dinamika Psikologis: Cowok vs Cewek di Photobox (Sudut Viral)
+Salah satu formula konten dengan tingkat *share* dan *comment* tertinggi adalah menyorot dinamika pasangan:
+- **Karakter Cewek**: Inisiator utama, sudah memikirkan outfit dan frame foto, tapi sering panik saat timer berjalan.
+- **Karakter Cowok**: Awalnya pasif/malas diajak foto ("ngapain sih foto-foto"), sering kaku/mati gaya hanya pose dua jari (peace sign), namun saat hasil cetak keluar justru paling senang dan menyimpannya di dompet/casing HP.
+- **Sudut Konten Viral**:
+  - *"Tipe-tipe cowok pas diajak photobox."*
+  - *"POV: Maksa pacar photobox, endingnya dia yang paling heboh milih frame."*
+  - *"Tips pose buat cowok anti-mati-gaya tanpa harus pose dua jari terus."*
+
+---
+
+## 5. Kalender Momentum & Prime Time Konten
+- **Hari Kerja Sore (16.00 - 18.00)**: Momen pulang ngampus / kerja (konten pelepas penat & kopi santai).
+- **Malam Minggu / Weekend**: Momen kencan dan hangout bareng bestie (konten rekomendasi tempat, OOTD, dan outfit matching).
+- **Momen Akhir Bulan / Tanggal Tua**: Sensitivitas harga tinggi (konten pilar edukasi harga Rp25k - Rp35k).
+- **Musim Wisuda & Kelulusan Kampus**: Lonjakan kebutuhan foto studio mini bersama toga, buket bunga, dan sahabat.

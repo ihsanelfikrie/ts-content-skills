@@ -64,3 +64,23 @@ Katalog ini wajib dijadikan rujukan saat merancang opsi konten pada **Fase 2 (Id
 - **Definisi**: Desain visual bold yang mengedepankan angka harga terjangkau (Rp25.000 / Rp33.000 / Rp35.000), promo khusus hari tertentu, atau peluncuran frame musiman.
 - **Contoh Headline**: *"Cuma 25 Ribu Udah Dapet Foto Cetak Estetik? Nih Lokasinya di Aime Coffee!"*
 - **Kelebihan**: Mendorong konversi cepat bagi audiens yang sensitif harga.
+
+---
+
+## 📐 3. Panduan Teknis Eksekusi Desain & Video
+
+### A. Format Video Pendek (Reels / TikTok)
+- **Rasio Dimensi**: `9:16` (1080 x 1920 px).
+- **Durasi Optimal**: 7 - 15 detik (retensi tontonan tertinggi).
+- **Safe Area**: Jangan tempatkan teks hook atau elemen kunci di 15% atas (terpotong header) dan 20% bawah (tertutup caption/username).
+- **Aturan Hook**: Wajib ada teks overlay kontras tinggi di 3 detik pertama bersamaan dengan aksi visual pembuka.
+
+### B. Format Carousel Feed (Instagram)
+- **Rasio Dimensi**: `4:5` (1080 x 1350 px) — rasio portrait memakan ruang layar ponsel maksimal dibanding 1:1.
+- **Jumlah Slide Ideal**: 5 sampai 7 slide.
+- **Blueprint Struktur Slide**:
+  - **Slide 1 (Cover)**: Headline pemikat *scroll-stopping* + visual utama beresolusi tajam.
+  - **Slide 2 (The Problem / Hook)**: Validasi masalah / keresahan audiens ("Pernah ngerasa kaku pas photobox?").
+  - **Slide 3 - 5 (The Value / Tips)**: Penjabaran 3 tips, perbandingan lampu, atau kurasi pose.
+  - **Slide 6 (Summary / Bonus)**: Rangkuman harga, alamat cabang kafe mitra, atau fitur rahasia.
+  - **Slide 7 (CTA / Penutup)**: Ajakan bertindak jelas (*"Save postingan ini buat referensi ngedate kamu"*).

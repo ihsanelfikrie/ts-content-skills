@@ -25,7 +25,7 @@ Framework ini digunakan ketika pengguna ingin memulai dari **Topik Besar / Tema 
 
 ---
 
-## 📌 Studi Kasus: "Launching Photobox Baru Tegoer Sapa"
+## 📌 Studi Kasus 1: "Launching Photobox Baru Tegoer Sapa"
 
 ```mermaid
 graph TD
@@ -54,4 +54,52 @@ graph TD
     H1 --> H1_FMT["📑 Carousel: Hard Selling / Promo Announcement"]
     B_HOW --> H2["Simulasi Cara Foto & Durasi Waktu"]
     H2 --> H2_FMT["🎬 Reels/TikTok: Talking Head Edukasi Cepat"]
+```
+
+---
+
+## 📌 Studi Kasus 2: "Kencan Hemat Akhir Bulan Mahasiswa Banjarbaru"
+
+```mermaid
+graph TD
+    ROOT2["🎯 TOPIK BESAR: Kencan Hemat Akhir Bulan Mahasiswa"]
+
+    ROOT2 --> C_BUDGET["💰 ANGGARAN & BIAYA (Budget)"]
+    C_BUDGET --> B1["Simulasi Budget: Kopi + Foto Cetak < 50k"]
+    B1 --> B1_FMT["🎬 Reels/TikTok: Mini Vlog 'Ngedate 40 Ribuan di Aime'"]
+    C_BUDGET --> B2["Rincian Harga Tiap Cabang Tegoer Sapa"]
+    B2 --> B2_FMT["📑 Carousel: Infografis 'Pilihan Photobox Mulai 25k'"]
+
+    ROOT2 --> C_SPOT["📍 PILIHAN SPOT KENCAN (Vibe/Location)"]
+    C_SPOT --> S1["Vibe Romantis Redup Ala Hotel 605"]
+    S1 --> S1_FMT["🎬 Reels/TikTok: POV Ngedate Klasik di Room 605"]
+    C_SPOT --> S2["Vibe Nostalgia Rumah Kayu Grandpa's House"]
+    S2 --> S2_FMT["📑 Carousel: Lookbook Ide Pose Kencan Berdua"]
+
+    ROOT2 --> C_FEAR["😰 HAPUS RASA CANGGUNG (Pain Point)"]
+    C_FEAR --> F1_2["Drama Cowok Kaku vs Cewek Heboh"]
+    F1_2 --> F1_2_FMT["🎬 Reels/TikTok: Skit Komedi 'Tipe Pacar Saat Photobox'"]
+```
+
+---
+
+## 📌 Studi Kasus 3: "Solusi Mati Gaya di Photobox (Anti-Kaku)"
+
+```mermaid
+graph TD
+    ROOT3["🎯 TOPIK BESAR: Solusi Mati Gaya di Photobox"]
+
+    ROOT3 --> P_COUPLE["💑 KHUSUS PASANGAN (Couple)"]
+    P_COUPLE --> CP1["Pose Interaksi Santai (Bukan Peace Sign)"]
+    CP1 --> CP1_FMT["📑 Carousel: Lookbook 5 Pose Kencan Anti-Mati-Gaya"]
+
+    ROOT3 --> P_SOLO["👤 SENDIRIAN / OOTD (Solo Mirror)"]
+    P_SOLO --> SL1["Mirror Selfie Cermin Gelombang Hijau Nolima"]
+    SL1 --> SL1_FMT["🎬 Reels/TikTok: Trend Transisi OOTD Aesthetic"]
+
+    ROOT3 --> P_PROPS["🕶️ MAKSIMALKAN PROPERTI (Props)"]
+    P_PROPS --> PR1["Piringan Hitam & Kacamata di Sirkem"]
+    PR1 --> PR1_FMT["🎬 Reels/TikTok: POV Jadi Model Majalah Indie"]
+    P_PROPS --> PR2["Katalog Properti di 5 Cabang Tegoer Sapa"]
+    PR2 --> PR2_FMT["📑 Carousel: Checklist 'Properti Wajib Dicoba'"]
 ```

@@ -135,9 +135,9 @@ Setiap ide konten wajib dikaitkan dengan salah satu Pilar dan Tujuan strategisny
 - **Kondisi**: Jika pengguna merespons dengan kata sepakat seperti *"Sah"*, *"Setuju"*, atau *"Bungkus"*.
 - **Tindakan**: Rangkum ide yang terpilih ke dalam format tabel Markdown rapi:
 
-| Tanggal | Cabang | Format Konten | Hook / Headline | Arahan Visual / Desain |
-|---|---|---|---|---|
-| [DD/MM/YYYY] | [Nama Cabang] | [Reels / Carousel] | [Teks Hook / Headline] | [Instruksi visual ringkas & padat untuk desainer] |
+| Tanggal | Cabang | Pilar & Tujuan | Format & Tipe Katalog | Hook / Headline | Arahan Visual & Copy |
+|---|---|---|---|---|---|
+| [DD/MM/YYYY] | [Nama Cabang] | [Pilar / Goal] | [Reels / Carousel + Tipe] | [Teks Hook / Headline] | [Instruksi visual ringkas & padat untuk desainer] |
 
 - **Kalimat Penutup WAJIB**:
   > "Tabel sudah siap disalin ke Google Docs!"

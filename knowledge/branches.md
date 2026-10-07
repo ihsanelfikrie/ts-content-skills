@@ -4,6 +4,18 @@ Dokumen ini menjadi acuan detail setiap cabang Tegoer Sapa untuk perancangan mat
 
 ---
 
+## ⚡ Cheatsheet Matriks Perbandingan Cepat 5 Cabang
+
+| Cabang | Mitra Kafe | Keunikan Visual Kunci | Fitur Sistem / Kamera | Harga & Waktu | Frame Ikonik | Vibe Terbaik |
+|---|---|---|---|---|---|---|
+| **1. Grandpa's House** | Hatara Coffee | Fasad rumah kayu, jendela krepyak interaktif | QR Antrean Online, Zoom/Mirror, Filter Vintage | Standard | Ayam Jago & Kayu | Nostalgia, Hangout Santai |
+| **2. Twin Photobox** | Nolima Coffee | 2 bilik berdampingan, cermin gelombang hijau | 2 kamera terpisah, retake kamera kiri/kanan | Rp35k / 5 mnt | Minimalis Modern | Anti-Antre, Bestie OOTD |
+| **3. Hotel Room 605** | Aime Coffee | Pintu kamar hotel 605, rak tas khusus | Normal vs Spotlight, kamera kiri/kanan | Mulai Rp25k | Desain Kalender | Kencan Sinematik, Mirror Selfie |
+| **4. Library Theme** | Warkop Sirkem | Rak ensiklopedia & fashion, vinyl band indie | Tombol Cut/Mirror, lampu sorot teater | Standard | "SOERAT KABAR" | Dark Academia, Indie Art |
+| **5. Kean Coffee** | Kean Coffee | Tirai marun/krem, bola disko gantung | All Payment (QRIS/Cash), retake sepuasnya | Rp33k / 5 mnt | Disco Sparkling | Party, Bebas Gaya Anti-Kaku |
+
+---
+
 ## 1. Grandpa's House (Tegoer Sapa x Hatara Coffee)
 *Konsep Utama: Kehangatan Nostalgia & Estetika Rumah Kayu Vintage.*
 

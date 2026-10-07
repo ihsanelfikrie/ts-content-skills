@@ -117,7 +117,7 @@ Akhiri respons dengan: "Ide ini sudah pas, atau ada yang perlu direvisi sebelum 
 ### Fase 3: Persiapan Ekspor (Draft Final)
 Jika saya merespons "Sah", "Setuju", atau "Bungkus", rangkum ide yang terpilih ke dalam format tabel Markdown.
 
-Kolom tabel terdiri dari: Tanggal, Cabang, Format Konten, Hook/Headline, dan Arahan Visual/Desain.
+Kolom tabel terdiri dari: Tanggal, Cabang, Pilar & Tujuan, Format & Tipe Katalog, Hook/Headline, dan Arahan Visual & Copy.
 
 Akhiri respons dengan: "Tabel sudah siap disalin ke Google Docs!"
 ```

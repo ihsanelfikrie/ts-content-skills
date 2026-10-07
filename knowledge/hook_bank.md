@@ -81,3 +81,33 @@ Koleksi kalimat pembuka (*hook*) visual/teks 3 detik pertama untuk Video Reels/T
 - *"Party vibe di bilik foto! Ada bola disko gantung dan tirai mewah marun-krem."*
 - *"Bebas gaya sepuasnya! Di Kean Coffee kamu bisa retake berkali-kali selama 5 menit."*
 - *"Bisa bayar tunai di kasir atau QRIS di layar, gak ada alasan gagal foto bareng doi."*
+
+---
+
+## 🔬 Rumus Formula Anatomi Hook 3 Detik
+
+Gunakan salah satu formula ini saat merancang kalimat pembuka baru:
+1. **Formula "Peringatan Terbalik"**:  
+   `[Jangan / Stop] + [Tindakan Umum] + [Sebelum Tahu Solusi Ini]`  
+   *Contoh*: "Stop foto kaku dua jari sebelum kamu contek 3 pose ini!"
+2. **Formula "Validasi Realita"**:  
+   `[POV / Niatnya Mau A] + [Tapi Endingnya Malah B]`  
+   *Contoh*: "Niatnya cuma nemenin ngopi di Hatara, endingnya kalap foto 3 sesi."
+3. **Formula "Perbandingan Kontras"**:  
+   `[Dikira / Mitos] + [Padahal Fakta Sebenarnya]`  
+   *Contoh*: "Dikira bayar 50 ribu, ternyata cuma 25 ribu udah dapet cetak estetik."
+
+---
+
+## 📢 Bank Kalimat Call-to-Action (CTA) Penutup
+
+Sesuaikan kalimat penutup naskah/slide dengan tujuan konten:
+- **Untuk Memicu Saves (Pilar Tutorial/Edukasi)**:
+  - *"Save postingan ini biar nggak panik pas udah di dalem bilik foto!"*
+  - *"Simpan panduan ini buat referensi ngedate akhir pekan kamu."*
+- **Untuk Memicu Komentar & Shares (Pilar Hiburan)**:
+  - *"Tag bestie kamu yang kalau diajak foto selalu minta retake berkali-kali!"*
+  - *"Kirim ke doi yang anti-kamera biar mau diajakin photobox weekend ini."*
+- **Untuk Kunjungan Langsung (Pilar Promosi)**:
+  - *"Langsung meluncur ke Aime Coffee hari ini, jangan sampai kehabisan slot frame kalender!"*
+  - *"Ajak circle kamu ke Nolima sekarang, cobain Twin Photobox pertama di Banjarbaru!"*

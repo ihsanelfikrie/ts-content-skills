@@ -97,15 +97,25 @@ Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih form
 
 ## Detail Fase 3: Persiapan Ekspor (Draft Final)
 
-- **Tujuan**: Merapikan seluruh poin keputusan menjadi tabel terstruktur yang siap disalin ke Google Docs.
+- **Tujuan**: Merapikan seluruh poin keputusan menjadi tabel terstruktur yang siap disalin ke Google Docs / Notion tim kreatif.
 - **Trigger**: Pengguna menyatakan persetujuan (*"Sah"*, *"Setuju"*, *"Bungkus"*, dll).
 - **Format Output**:
-  Tabel Markdown dengan kolom:
+  Tabel Markdown lengkap dengan kolom:
   - `Tanggal`: Tanggal rencana tayang / pengerjaan.
   - `Cabang`: Nama cabang Tegoer Sapa.
-  - `Format Konten`: Jenis media (Reels/TikTok atau Carousel Feed).
+  - `Pilar & Tujuan`: Pilar konten (Edukasi/Tutorial/Hiburan/Inspirasi/Promosi) dan Goal (Reach/Saves/Engagement/Conversion).
+  - `Format & Tipe`: Format media dan tipe katalog terpilih (misal: *Reels (POV)* atau *Carousel (Infografis)*).
   - `Hook / Headline`: Kalimat pembuka 3 detik pertama atau judul Slide 1.
-  - `Arahan Visual / Desain`: Instruksi praktis yang langsung bisa dieksekusi oleh desainer grafis / video editor.
+  - `Arahan Visual & Copy`: Instruksi praktis yang langsung bisa dieksekusi oleh desainer grafis / video editor.
 
   - Kalimat penutup standar (WAJIB):
     > **"Tabel sudah siap disalin ke Google Docs!"**
+
+---
+
+## ✅ Quality Assurance (QA) Checklist Konten
+Sebelum sebuah ide disahkan ke Fase 3, pastikan lolos 4 kriteria ini:
+1. **Hook Check**: Apakah 3 detik pertama / Headline Slide 1 sudah memicu rasa penasaran tanpa bertele-tele?
+2. **Branch Accuracy**: Apakah fitur yang disebutkan 100% akurat sesuai spesifikasi cabang (misal: jangan sebut retake sepuasnya di Nolima, jangan sebut pintu hotel di Hatara)?
+3. **Pilar & Objective Alignment**: Apakah tipe format yang dipilih cocok dengan tujuan (misal: panduan disimpan pakai Carousel, hiburan viral pakai Reels)?
+4. **Actionable Instruction**: Apakah arahan visual cukup deskriptif bagi tim desainer/editor tanpa perlu banyak bertanya ulang?
