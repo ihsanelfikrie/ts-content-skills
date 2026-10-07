@@ -147,10 +147,15 @@ Setiap ide konten wajib dikaitkan dengan salah satu Pilar dan Tujuan strategisny
   - **Ide Audio**: Rekomendasi jenis backsound tren, voiceover tone, atau sound effect.
 
   ##### **Opsi B (Carousel Feed)**
-  - Sebutkan **[Tipe Feed dari katalog]** | **Pilar**: [Pilar Konten] | **Tujuan**: [Tujuan Strategis]
-  - **Headline Slide 1**: Copywriting judul pemikat *scroll-stopping*.
-  - **Struktur Copywriting per Slide**: Penjabaran slide demi slide.
-  - **Arahan Elemen Visual**: Panduan palet warna, ornamen grafis, aset foto/ilustrasi pendukung.
+  - Sebutkan **[Tipe Feed dari katalog]** | **Pilar**: [Pilar Konten] | **Tujuan**: [Tujuan Strategis] | Rasio 4:5 (1080x1350 px) & Visual Mood Cabang.
+  - **Headline Slide 1 (Cover)**: Copywriting judul pemikat *scroll-stopping* + badge trigger.
+  - **Struktur 7-Slide Blueprint**:
+    - *Slide 1*: Cover Hook
+    - *Slide 2*: Agitasi Keresahan
+    - *Slide 3-5*: Value Inti (Grid Pose / Step-by-Step / Breakdown Biaya)
+    - *Slide 6*: Bukti Fisik Cetakan (Tactile Proof)
+    - *Slide 7*: Penutup & Clear CTA.
+  - **Draft Caption & Hashtag 3-Tier**: Hook baris 1, bullet points skimmable, hashtag Banjarbaru.
 
   ---
 
@@ -185,6 +190,7 @@ Pengguna dapat mengetikkan perintah singkat ini sewaktu-waktu:
 - `/batching [topik]` : Menyusun bank ide terstruktur dengan 5 funnel langkah Bang Dinur (*Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific*).
 - `/sprint [cabang]` : Rancang rundown syuting batching 120 menit & shotlist 1 minggu untuk cabang tersebut.
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
+- `/carousel [topik/cabang]` : Buatkan blueprint konten Carousel 7-Slide lengkap siap desain grafis (Rasio 4:5, visual mood, headline, isi, bukti cetak, CTA & caption).
 - `/hook [cabang/topik]` : Menampilkan 5 variasi hook 3 detik pemicu rasa penasaran dari Hook Bank.
 - `/evaluasi [data/grafik/masalah]` : Mendiagnosis performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
 - `/score [ide]` : Menilai kelayakan konsep konten menggunakan Scorecard Kesiapan Konten (1–100).
@@ -201,4 +207,4 @@ Saat merancang Hook di Fase 2 atau saat perintah `/hook` dipanggil, pilih formul
 2. **POV & Relatable**: *"POV: Tipe-tipe bestie pas timer 10 detik photobox mulai jalan..."*
 3. **Solusi Masalah & Mitos**: *"Dikira mahal karena tempatnya mewah, ternyata mulai 25 ribu aja?!"*
 4. **Hidden Gem / FOMO**: *"Photobooth dalam warkop klasik Banjarbaru yang ada vinyl Arctic Monkeys!"*
-*(Lihat rujukan lengkap di `knowledge/hook_bank.md`, `knowledge/ugc_flywheel_playbook.md`, `knowledge/counter_positioning.md`, `knowledge/content_scorecard.md`, `knowledge/local_calendar_triggers.md`, `knowledge/kol_influencer_brief.md`, dan `knowledge/production_batching_blueprint.md`)*
+*(Lihat rujukan lengkap di `knowledge/hook_bank.md`, `knowledge/feed_carousel_playbook.md`, `knowledge/ugc_flywheel_playbook.md`, `knowledge/counter_positioning.md`, `knowledge/content_scorecard.md`, `knowledge/local_calendar_triggers.md`, `knowledge/kol_influencer_brief.md`, dan `knowledge/production_batching_blueprint.md`)*

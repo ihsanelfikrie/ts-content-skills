@@ -22,6 +22,7 @@ Tegoersapa content skills/
 ├── CLAUDE.md                 # Petunjuk operasional Claude saat bekerja di repo ini
 ├── .gitignore                # Konfigurasi ignore file macOS / cache
 ├── knowledge/                # Basis pengetahuan & data pendukung
+│   ├── feed_carousel_playbook.md # Playbook Konten Feed & Carousel (Blueprint 7-Slide & Desain Grafis)
 │   ├── dinur_content_framework.md # Framework Analisa Konten & Batching Ide (Bang Dinur)
 │   ├── production_batching_blueprint.md # Blueprint Syuting Lapangan "1 Sesi = Konten 1 Minggu"
 │   ├── ugc_flywheel_playbook.md  # Playbook User Generated Content & Pemicu Viral Organik
@@ -49,6 +50,7 @@ Tegoersapa content skills/
 - `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (*Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific*).
 - `/sprint [cabang]` : Rancang rundown syuting batching 120 menit & shotlist 1 minggu untuk cabang tersebut.
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
+- `/carousel [topik/cabang]` : Buatkan blueprint konten Carousel 7-Slide lengkap siap desain grafis (Rasio 4:5, visual mood, headline, isi, bukti cetak, CTA & caption).
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik variatif dari Hook Bank.
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
 - `/score [ide]` : Menilai kelayakan konsep konten dengan Scorecard Kesiapan Konten (1–100).

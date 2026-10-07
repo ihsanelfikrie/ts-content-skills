@@ -92,9 +92,15 @@ Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih form
 
 ### Opsi B (Carousel Feed)
 - Sebutkan **[Tipe Feed dari katalog]** | **Pilar**: [Pilar Konten] | **Tujuan**: [Tujuan Strategis]
-- **Headline Slide 1**: Copywriting judul pemikat yang *scroll-stopping*.
-- **Struktur Copywriting per Slide**: Penjabaran konten slide demi slide sampai CTA penutup.
-- **Arahan Elemen Visual**: Rekomendasi palet warna (Hex/deskripsi warna), ornamen grafis/elemen vektor, layout gambar, dan font mood.
+- **Rasio & Palet Visual**: Rasio `4:5` (1080x1350 px) | Tone warna khas cabang (misal: warm wood & retro grain Hatara / deep navy & spotlight Aime).
+- **Headline Slide 1 (Cover)**: Copywriting judul pemikat yang *scroll-stopping* + badge trigger ("📌 Simpan Buat Weekend").
+- **Struktur 7-Slide Blueprint**:
+  - *Slide 1*: Cover Hook
+  - *Slide 2*: Agitasi Keresahan ("Pernah gak sih...?")
+  - *Slide 3-5*: Isi Solusi / Grid Pose / Step-by-Step / Breakdown Biaya
+  - *Slide 6*: Bukti Fisik / Tactile Shot (Close-up tangan pegang cetakan asli)
+  - *Slide 7*: Penutup & Clear CTA (Simpan, tag ayang/bestie, alamat cabang).
+- **Draft Caption & Hashtag 3-Tier**: Hook baris 1 (<125 karakter), bullet point skimmable, hashtag niche lokal Banjarbaru.
 
 ---
 

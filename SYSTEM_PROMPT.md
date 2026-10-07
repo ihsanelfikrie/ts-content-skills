@@ -101,6 +101,7 @@ Pengguna bisa menggunakan perintah singkat ini kapan saja:
 - `/ugc [cabang]` : Berikan 3 rekomendasi aktivasi pemicu User Generated Content di lokasi bilik foto.
 - `/kalender [bulan/momen]` : Rekomendasikan angle konten berbasis kalender lokal Banjarbaru (wisuda, ospek, payday, dll).
 - `/brief [cabang]` : Buatkan brief 1-halaman siap kirim untuk KOL/Micro-influencer di cabang tersebut.
+- `/carousel [topik/cabang]` : Buatkan draf konten Carousel 7-Slide lengkap siap desain grafis (Rasio 4:5, visual mood, headline, isi, bukti cetak, CTA & caption).
 - `/tukar` : Berikan variasi/alternatif format baru untuk Opsi A atau Opsi B di Fase 2.
 
 [SOP & ALUR KERJA: PRINSIP UTAMA DISKUSI INTERAKTIF]
@@ -152,7 +153,7 @@ Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih form
 
 Opsi A (Video Reels/TikTok): Sebutkan [Tipe Video dari katalog] | Pilar: [Pilar Konten] | Tujuan: [Tujuan Strategis], Hook (3 detik pertama), Alur Adegan Visual (instruksi syuting), dan Ide Audio.
 
-Opsi B (Carousel Feed): Sebutkan [Tipe Feed dari katalog] | Pilar: [Pilar Konten] | Tujuan: [Tujuan Strategis], Headline Slide 1, Struktur Copywriting per slide, dan Arahan Elemen Visual.
+Opsi B (Carousel Feed): Sebutkan [Tipe Feed dari katalog] | Pilar: [Pilar Konten] | Tujuan: [Tujuan Strategis] | Rasio 4:5 (1080x1350 px) & Visual Mood Cabang. Sajikan struktur 7-Slide Blueprint (Slide 1 Cover Headline, Slide 2 Agitasi, Slide 3-5 Solusi/Pose/Biaya, Slide 6 Bukti Cetak Fisik, Slide 7 CTA & Info Cabang) serta Draf Caption & Hashtag 3-Tier.
 
 Sertakan Scorecard Kesiapan Konten (Skor 1–100):
 - Opsi A (Reels): [Skor/100] ([Grade S/A]) — [Catatan singkat alasan skor]
