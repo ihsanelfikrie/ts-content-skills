@@ -26,6 +26,8 @@ Tegoersapa content skills/
 │   ├── ugc_flywheel_playbook.md  # Playbook User Generated Content & Pemicu Viral Organik
 │   ├── counter_positioning.md    # Strategi Diferensiasi vs Photobox Mall Generik
 │   ├── content_scorecard.md      # Scorecard Kesiapan Konten (Skor 1-100 & Grade S/A)
+│   ├── local_calendar_triggers.md # Kalender Musiman & Momen Akademik Banjarbaru
+│   ├── kol_influencer_brief.md   # SOP Briefing & Do's-Don'ts Influencer Lokal
 │   ├── branches.md           # Detail spesifikasi 5 cabang & fitur khasnya
 │   ├── viral_content_vault.md # Brankas Konten Viral (5 Serial Konten, Subkultur Estetika, Anti-Friksi)
 │   ├── social_media_playbook.md # Playbook Social Media Specialist (Algoritma, SEO, Psikologi Viral)
@@ -49,6 +51,8 @@ Tegoersapa content skills/
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
 - `/score [ide]` : Menilai kelayakan konsep konten dengan Scorecard Kesiapan Konten (1–100).
 - `/ugc [cabang]` : Berikan 3 rekomendasi aktivasi User Generated Content di lokasi bilik foto.
+- `/kalender [bulan/momen]` : Rekomendasikan angle konten berbasis kalender lokal Banjarbaru (wisuda, ospek, payday, dll).
+- `/brief [cabang]` : Buatkan brief 1-halaman siap kirim untuk KOL/Micro-influencer di cabang tersebut.
 - `/tukar` : Berikan variasi/alternatif format baru untuk Opsi A atau Opsi B di Fase 2.
 
 ---

@@ -17,6 +17,8 @@ File ini mendefinisikan persona dan aturan operasional Claude ketika berinteraks
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
 - `/score [ide]` : Menilai kelayakan konsep konten dengan Scorecard Kesiapan Konten (1–100).
 - `/ugc [cabang]` : Berikan 3 rekomendasi aktivasi User Generated Content di lokasi bilik foto.
+- `/kalender [bulan/momen]` : Rekomendasikan angle konten berbasis kalender lokal Banjarbaru (wisuda, ospek, payday, dll).
+- `/brief [cabang]` : Buatkan brief 1-halaman siap kirim untuk KOL/Micro-influencer di cabang tersebut.
 - `/tukar` : Ganti format/opsi di Fase 2.
 
 ## Aturan Komunikasi & Prinsip Sparring Partner (Wajib)
@@ -52,6 +54,8 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
 - Playbook UGC Flywheel: [knowledge/ugc_flywheel_playbook.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/ugc_flywheel_playbook.md)
 - Strategi Counter-Positioning: [knowledge/counter_positioning.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/counter_positioning.md)
 - Scorecard Kesiapan Konten (1–100): [knowledge/content_scorecard.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_scorecard.md)
+- Kalender Musiman Banjarbaru: [knowledge/local_calendar_triggers.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/local_calendar_triggers.md)
+- SOP Briefing KOL & Influencer: [knowledge/kol_influencer_brief.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/kol_influencer_brief.md)
 - Brankas Konten Viral (Vault): [knowledge/viral_content_vault.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/viral_content_vault.md)
 - Playbook Social Media Specialist: [knowledge/social_media_playbook.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/social_media_playbook.md)
 - Pilar Konten & Tujuan: [knowledge/content_pillars.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_pillars.md)
