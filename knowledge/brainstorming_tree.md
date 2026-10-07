@@ -103,3 +103,14 @@ graph TD
     P_PROPS --> PR2["Katalog Properti di 5 Cabang Tegoer Sapa"]
     PR2 --> PR2_FMT["📑 Carousel: Checklist 'Properti Wajib Dicoba'"]
 ```
+
+---
+
+## 🚀 Alur Setelah Pohon Cabang Ditampilkan (Approval & Dual Brief)
+
+1. **User Memilih Ranting**: Pengguna memilih cabang/ranting yang paling cocok dengan strategi saat itu (misal: *"Pilih Ranting P_COUPLE: Lookbook Pose Kencan"*).
+2. **Validasi Persetujuan**: Pengguna menyatakan *"Sah"*, *"Bungkus"*, atau memberikan catatan revisi kecil.
+3. **Output Ekspor Otomatis**: AI langsung menghasilkan 2 format brief kerja:
+   - **Brief Tim Konten**: Lengkap dengan shotlist visual, instruksi grafis, hook 3-lapis, dan kata kunci SEO Banjarbaru.
+   - **Brief KOL/Influencer**: Teks pesan WhatsApp ramah siap copy-paste langsung ke talent/kreator (detail lokasi kafe, skenario video, benefit ngopi/foto, dan 3 deliverables wajib: 1 Reels + 3 IG Stories).
+   - **Tabel Ringkasan Ekspor**: Siap disalin ke Google Docs / Notion.

@@ -19,7 +19,12 @@ Putaran 1: Tanggapan Awal & 2-3 Pertanyaan Pemantik Diskusi (Target? Cabang? Goa
        ↓
 Putaran 2: Visualisasi Diagram Percabangan Ide (Mermaid Tree Diagram Terkurasi)
        ↓
-[User Memilih Ranting yang Ingin Dieksekusi] → Masuk ke Fase 2 (A/B Testing) & Fase 3
+[User Memilih & Me-approve Ranting yang Pas ("Sah" / "Bungkus" / "Pilih Ranting X")]
+       ↓
+Putaran 3 (Output Final): Ekspor Brief Siap Pakai:
+       ├── 1. Brief Singkat Tim Konten (Internal: Shotlist, Hook 3-Lapis, Arahan Visual & Copy, SEO)
+       ├── 2. Brief Singkat KOL/Influencer (Eksternal: Format Chat WhatsApp Siap Kirim)
+       └── 3. Tabel Ringkasan Ekspor (Google Docs / Notion)
 ```
 
 ### 2. Pintu Masuk B: Bedah Langsung Cabang (SOP 3 Fase)
@@ -102,21 +107,55 @@ Tampilkan evaluasi audit cepat berdasarkan 4 pilar (Hook Power, Relatability, Pr
 
 ---
 
-## Detail Fase 3: Persiapan Ekspor (Draft Final)
+## Detail Fase 3: Persiapan Ekspor (Draft Final & Brief Siap Pakai)
 
-- **Tujuan**: Merapikan seluruh poin keputusan menjadi tabel terstruktur yang siap disalin ke Google Docs / Notion tim kreatif.
-- **Trigger**: Pengguna menyatakan persetujuan (*"Sah"*, *"Setuju"*, *"Bungkus"*, dll).
-- **Format Output**:
-  Tabel Markdown lengkap dengan kolom:
-  - `Tanggal`: Tanggal rencana tayang / pengerjaan.
-  - `Cabang`: Nama cabang Tegoer Sapa.
-  - `Pilar & Tujuan`: Pilar konten (Edukasi/Tutorial/Hiburan/Inspirasi/Promosi) dan Goal (Reach/Saves/Engagement/Conversion).
-  - `Format & Tipe`: Format media dan tipe katalog terpilih (misal: *Reels (POV)* atau *Carousel (Infografis)*).
-  - `Hook / Headline`: Kalimat pembuka 3 detik pertama atau judul Slide 1.
-  - `Arahan Visual & Copy`: Instruksi praktis yang langsung bisa dieksekusi oleh desainer grafis / video editor.
+- **Tujuan**: Merangkum keputusan ide menjadi format kerja siap pakai untuk tim internal dan kreator eksternal.
+- **Trigger**: Pengguna menyatakan persetujuan (*"Sah"*, *"Setuju"*, *"Bungkus"*, *"Pilih Ranting A"*, dll).
+- **Format Output Lengkap**:
 
-  - Kalimat penutup standar (WAJIB):
-    > **"Tabel sudah siap disalin ke Google Docs!"**
+### 1. 📌 Brief Singkat untuk Tim Konten (Internal)
+*Dirancang khusus untuk desainer grafis dan video editor lapangan:*
+- **Topik / Judul Konten**: [Judul ringkas ide terpilih]
+- **Cabang Target**: [Nama cabang Tegoer Sapa & Fitur Khasnya]
+- **Pilar & Tujuan**: [Pilar Konten] | **Goal**: [Tujuan Strategis]
+- **Format Media**: [Reels / TikTok / Carousel Feed] (Tipe Katalog: [POV/Skit/Lookbook/dll])
+- **Formula Hook 3-Lapis**:
+  - *Visual Hook*: [Aksi kamera/model di detik 0-3]
+  - *Text Overlay*: [Teks tebal kontras di layar]
+  - *Audio / SFX*: [Ketukan musik tren / sound effect]
+- **Alur Adegan / Shotlist Visual**: [Instruksi syuting shot-by-shot atau panduan layout per slide]
+- **Naskah / Copywriting & CTA**: [Kalimat naskah inti & ajakan aksi penutup]
+- **Social SEO Keywords**: `#photoboxbanjarbaru #ngedatehematbanjarbaru [keyword cabang]`
+
+---
+
+### 2. 📱 Brief Singkat untuk KOL / Micro-Influencer (Format Chat WhatsApp Siap Kirim)
+*Teks pesan WhatsApp ramah siap copy-paste langsung ke talent / influencer:*
+```text
+Halo [Nama Creator]! ✨
+Kita dari Tegoer Sapa Photobooth mau ajak kamu seru-seruan kolaborasi di cabang [Nama Cabang]!
+
+📌 Konsep Konten:
+- Tema: [Ringkasan konsep kencan / bestie / aesthetic]
+- Lokasi: [Nama Kafe & Cabang Tegoer Sapa]
+- Benefit: Free sesi photobox sepuasnya + Free ngopi berdua bareng kafe mitra.
+
+📦 Deliverables:
+1. 1x Reels/TikTok (20-40 detik, gaya vlog santai/reaksi keseruan foto).
+2. 3x IG Stories (Mirror selfie cermin luar + Reaksi cetakan keluar + Pamer hasil cetak & tag @tegoer.sapa).
+
+Key Message: Sebutin harga ramah kantong (mulai Rp25k/33k/35k) & suasananya yang private di dalam kafe! ✨
+```
+
+---
+
+### 3. 📊 Tabel Ringkasan Ekspor (Google Docs / Notion)
+| Tanggal | Cabang | Pilar & Tujuan | Format & Tipe | Hook / Headline | Arahan Visual & Copy |
+|---|---|---|---|---|---|
+| [DD/MM/YYYY] | [Cabang] | [Pilar / Goal] | [Format + Tipe] | [Hook 3 Detik] | [Ringkasan instruksi produksi] |
+
+- Kalimat penutup standar (WAJIB):
+  > **"Draf brief untuk Tim Konten dan KOL sudah siap dieksekusi!"**
 
 ---
 

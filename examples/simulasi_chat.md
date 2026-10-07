@@ -68,16 +68,57 @@ Berikut adalah contoh simulasi percakapan lengkap antara Pengguna dan AI **Tegoe
 
 ---
 
-### [Putaran 3: Fase 3 - Persiapan Ekspor]
+### [Putaran 3: Fase 3 - Persiapan Ekspor & Brief Siap Pakai]
 
 **User:**
 > Bungkus opsi A ya!
 
 **Claude / AI:**
-> Sip! Ini rangkuman draf final yang siap disalin:
+> Sip! Ini paket draf final lengkap yang siap dieksekusi:
 >
-> | Tanggal | Cabang | Format Konten | Hook / Headline | Arahan Visual / Desain |
-> |---|---|---|---|---|
-> | 08/10/2026 | Hotel Room 605 (Aime Coffee) | Video Reels / TikTok (Talking Head / Edukasi Cepat) | "Jangan foto di Room 605 sebelum tahu fungsi saklar ini!" | Video edukasi 15 detik: Talent membedah saklar lampu ganda (Normal vs Spotlight) dan angle kamera kiri/kanan. Shoot perbandingan wajah di tiap mode pencahayaan, lalu tutup dengan pamer hasil cetak frame kalender mulai Rp25.000. |
+> ---
 >
-> Tabel sudah siap disalin ke Google Docs!
+> ### 1. 📌 Brief Singkat untuk Tim Konten (Internal)
+> - **Judul Konten**: Rahasia Saklar Lampu Hotel Room 605
+> - **Cabang Target**: Hotel Room 605 (Tegoer Sapa x Aime Coffee)
+> - **Pilar & Tujuan**: Edukasi & Fitur | **Goal**: Saves & Trust (Mengikis keraguan hasil foto kusam)
+> - **Format Media**: Video Reels / TikTok (Tipe: Talking Head / Edukasi Cepat)
+> - **Formula Hook 3-Lapis**:
+>   - *Visual Hook*: Talent memegang tombol saklar lampu di dinding bilik Room 605 dengan tatapan misterius ke kamera.
+>   - *Text Overlay*: *"Jangan foto di Room 605 sebelum tahu fungsi saklar ini!"*
+>   - *Audio / SFX*: Sound effect "klik" saklar tajam diiringi lo-fi beat santai.
+> - **Shotlist Alur Adegan**:
+>   - *Scene 1 (Detik 0-3)*: Mode Normal (wajah cerah merata, natural).
+>   - *Scene 2 (Detik 4-8)*: Mode Spotlight (vibe moody sinematik ala film Hong Kong).
+>   - *Scene 3 (Detik 9-12)*: Opsi switch angle kamera kiri vs kanan (*best profile*).
+>   - *Scene 4 (Detik 13-15)*: Pamer cetakan fisik frame kalender mulai Rp25.000.
+> - **Naskah Copywriting & CTA**: *"Mulai 25 ribu udah dapet 2 strip foto estetik. Save video ini biar gak bingung pas ke Aime Coffee!"*
+> - **Social SEO Keywords**: `#photoboxbanjarbaru #aimecoffee #room605 #tempatnongkrongbanjarbaru`
+>
+> ---
+>
+> ### 2. 📱 Brief Singkat untuk KOL / Micro-Influencer (Format Chat WhatsApp Siap Kirim)
+> ```text
+> Halo [Nama Creator]! ✨
+> Kita dari Tegoer Sapa Photobooth mau ajak kamu seru-seruan kolaborasi di cabang Hotel Room 605 (Aime Coffee)!
+>
+> 📌 Konsep Konten:
+> - Tema: Bedah rahasia lighting studio sinematik di bilik pintu kamar hotel vintage 605.
+> - Lokasi: Aime Coffee, Banjarbaru.
+> - Benefit: Free sesi foto sepuasnya + free ngopi berdua bareng kafe mitra.
+>
+> 📦 Deliverables:
+> 1. 1x Reels/TikTok (20–30 detik, gaya vlog santai nyobain mode Lampu Normal vs Spotlight).
+> 2. 3x IG Stories (Mirror selfie cermin hotel + Reaksi cetakan keluar + Pamer hasil cetak frame kalender & tag @tegoer.sapa).
+>
+> Key Message: Sebutin harganya mulai Rp25.000 aja & ada rak khusus buat naruh tas belanjaan/kuliah! ✨
+> ```
+>
+> ---
+>
+> ### 3. 📊 Tabel Ringkasan Ekspor (Google Docs / Notion)
+> | Tanggal | Cabang | Pilar & Tujuan | Format & Tipe | Hook / Headline | Arahan Visual & Copy |
+> |---|---|---|---|---|---|
+> | 08/10/2026 | Hotel Room 605 (Aime Coffee) | Edukasi (Trust & Saves) | Video Reels (Talking Head) | "Jangan foto di Room 605 sebelum tahu fungsi saklar ini!" | Talent membedah saklar lampu ganda (Normal vs Spotlight) dan angle kiri/kanan. Shoot perbandingan wajah, tutup dengan pamer cetakan frame kalender Rp25k. |
+>
+> Draf brief untuk Tim Konten dan KOL sudah siap dieksekusi!

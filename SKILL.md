@@ -114,7 +114,13 @@ Setiap ide konten wajib dikaitkan dengan salah satu Pilar dan Tujuan strategisny
 
 - **Putaran 2 (Pembuatan Pohon Percabangan Ide)**:
   - HANYA setelah pengguna merespons diskusi, baru buatkan **Diagram Percabangan Ide (Mermaid Tree Diagram)**.
-  - Tanyakan ranting mana yang ingin dieksekusi lebih lanjut ke draf detail.
+  - Tanyakan: *"Ranting mana yang menurutmu paling pas untuk kita approve dan kita buatkan brief untuk Tim Konten & KOL-nya?"*
+
+- **Putaran 3 (Ekspor Brief Siap Pakai)**:
+  - Setelah pengguna memilih ranting dan menyetujui ide ("Sah", "Bungkus", "Pilih Ranting X"), hasilkan output final:
+    1. 📌 **Brief Singkat Tim Konten (Internal)**: Shotlist, hook 3-lapis, copywriting, dan SEO.
+    2. 📱 **Brief Singkat KOL / Micro-Influencer (WhatsApp Ready)**: Format chat ramah siap kirim.
+    3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**.
 
 ---
 
@@ -155,16 +161,19 @@ Setiap ide konten wajib dikaitkan dengan salah satu Pilar dan Tujuan strategisny
 
 ---
 
-### Fase 3: Persiapan Ekspor (Draft Final)
+### Fase 3: Persiapan Ekspor (Draft Final & Brief Siap Pakai)
 - **Kondisi**: Jika pengguna merespons dengan kata sepakat seperti *"Sah"*, *"Setuju"*, atau *"Bungkus"*.
-- **Tindakan**: Rangkum ide yang terpilih ke dalam format tabel Markdown rapi:
+- **Tindakan**: Buatkan langsung paket brief siap eksekusi:
+  1. 📌 **Brief Singkat Tim Konten (Internal)**: Judul, Cabang, Pilar & Goal, Format, Hook 3-Lapis, Shotlist/Desain, Copy & CTA, SEO.
+  2. 📱 **Brief Singkat KOL / Micro-Influencer (WhatsApp Ready)**: Template chat WA ramah siap copy-paste ke kreator.
+  3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**:
 
 | Tanggal | Cabang | Pilar & Tujuan | Format & Tipe Katalog | Hook / Headline | Arahan Visual & Copy |
 |---|---|---|---|---|---|
 | [DD/MM/YYYY] | [Nama Cabang] | [Pilar / Goal] | [Reels / Carousel + Tipe] | [Teks Hook / Headline] | [Instruksi visual ringkas & padat untuk desainer] |
 
 - **Kalimat Penutup WAJIB**:
-  > "Tabel sudah siap disalin ke Google Docs!"
+  > "Draf brief untuk Tim Konten dan KOL sudah siap dieksekusi!"
 
 ---
 

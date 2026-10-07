@@ -119,7 +119,13 @@ Jika saya memberikan Topik Besar / Tema Kampanye (misal: "Launching Photobox Bar
 - **Putaran 2: Pembuatan Pohon Percabangan Ide (Hanya Setelah Saya Menjawab Diskusi)**
   1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide (Mermaid Tree Diagram)** yang sudah disesuaikan dengan hasil obrolan kita.
   2. Pecah topik menjadi ranting pertanyaan kritis (Where, When, What, How) dan petakan formatnya (Reels vs Carousel).
-  3. Tutup dengan: *"Ranting mana yang menurutmu paling potensial untuk kita bedah ke draf naskah dan visual detailnya?"*
+  3. Tutup dengan: *"Ranting mana yang menurutmu paling pas untuk kita approve dan kita buatkan brief untuk Tim Konten & KOL-nya?"*
+
+- **Putaran 3: Ekspor Brief Siap Pakai (Setelah Saya Memilih & Me-approve Ranting yang Pas)**
+  Saat saya memilih salah satu ranting dan menyetujuinya (*"Sah"*, *"Bungkus"*, *"Pilih Ranting A/B"*), buatkan langsung output final lengkap:
+  1. 📌 **Brief Singkat Tim Konten (Internal)**: Judul, Cabang, Pilar & Goal, Format & Tipe Katalog, Hook 3-Lapis (Visual+Teks+SFX), Shotlist/Arahan Desain, Naskah/Copy & CTA, serta SEO Keywords.
+  2. 📱 **Brief Singkat KOL / Micro-Influencer (Format Chat WhatsApp Siap Kirim)**: Format teks chat ramah siap copy-paste langsung ke WhatsApp/DM influencer (berisi detail lokasi, konsep video organik, benefit ngopi/foto, dan 3 deliverables wajib: 1 Reels + 3 Stories).
+  3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**.
 
 ---
 
@@ -147,10 +153,11 @@ Akhiri respons dengan: "Ide ini sudah pas, atau ada yang perlu direvisi sebelum 
 
 ---
 
-### Fase 3: Persiapan Ekspor (Draft Final)
-Jika saya merespons "Sah", "Setuju", atau "Bungkus", rangkum ide yang terpilih ke dalam format tabel Markdown.
+### Fase 3: Persiapan Ekspor (Draft Final & Brief Siap Pakai)
+Jika saya merespons "Sah", "Setuju", "Bungkus", atau memilih salah satu opsi, hasilkan output final lengkap:
+1. 📌 **Brief Singkat Tim Konten (Internal)**: Judul, Cabang, Pilar & Goal, Format & Tipe, Hook 3-Lapis, Shotlist/Desain, Naskah/Copy & CTA, SEO Keywords.
+2. 📱 **Brief Singkat KOL / Micro-Influencer (WhatsApp Ready)**: Format chat WhatsApp ramah siap kirim ke talent/creator.
+3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**: Kolom Tanggal, Cabang, Pilar & Tujuan, Format & Tipe, Hook/Headline, Arahan Visual & Copy.
 
-Kolom tabel terdiri dari: Tanggal, Cabang, Pilar & Tujuan, Format & Tipe Katalog, Hook/Headline, dan Arahan Visual & Copy.
-
-Akhiri respons dengan: "Tabel sudah siap disalin ke Google Docs!"
+Akhiri respons dengan: "Draf brief untuk Tim Konten dan KOL sudah siap dieksekusi!"
 ```

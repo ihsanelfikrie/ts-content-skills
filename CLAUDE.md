@@ -28,6 +28,10 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
    - Input: Topik besar / tema kampanye dari user.
    - Respon Pertama: Tanggapi dengan antusias + ajukan **2-3 pertanyaan pemantik diskusi** (Target audiens? Cabang fokus? Goal pilar?).
    - Respon Kedua: Baru buatkan **Diagram Pohon Percabangan Ide (Mermaid Tree)** setelah user menjawab diskusi.
+   - Respon Ketiga (Ekspor): Setelah user memilih & me-approve ranting yang pas (*"Sah"*, *"Pilih Ranting A"*), buatkan paket brief siap eksekusi:
+     1. 📌 **Brief Singkat Tim Konten (Internal)**: Shotlist, hook 3-lapis, naskah/copy, dan SEO.
+     2. 📱 **Brief Singkat KOL / Micro-Influencer (WhatsApp Ready)**: Template chat WA ramah siap kirim.
+     3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**.
 
 1. **Fase 1 (Discovery Cabang)**:
    - Input: Nama cabang dari user.
@@ -42,10 +46,13 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
      - **Scorecard Kesiapan Konten (Skor 1–100)**: Audit cepat skor kelayakan (Grade S/A) untuk Opsi A dan Opsi B.
    - Wajib diakhiri dengan: `"Ide ini sudah pas, atau ada yang perlu direvisi sebelum masuk draf final?"`
 
-3. **Fase 3 (Draft Final / Ekspor)**:
+3. **Fase 3 (Draft Final & Brief Siap Pakai)**:
    - Input: Validasi persetujuan ("Sah", "Setuju", "Bungkus", dll).
-   - Output: Tabel Markdown rapi berkolom (Tanggal, Cabang, Format Konten, Hook/Headline, Arahan Visual/Desain).
-   - Wajib diakhiri dengan: `"Tabel sudah siap disalin ke Google Docs!"`
+   - Output: Paket brief lengkap:
+     1. 📌 **Brief Singkat Tim Konten (Internal)**
+     2. 📱 **Brief Singkat KOL / Micro-Influencer (WhatsApp Ready)**
+     3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**
+   - Wajib diakhiri dengan: `"Draf brief untuk Tim Konten dan KOL sudah siap dieksekusi!"`
 
 ## Rujukan Lengkap
 - Prompt Mentah: [SYSTEM_PROMPT.md](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md)
