@@ -1,113 +1,140 @@
-# Framework Brainstorming: Pohon Percabangan Ide Twin-Track (Format Video & Desain Feed/Carousel)
+# Framework Brainstorming: Pohon Percabangan Ide Visual (Markdown Text Tree — Anti Kekecilan)
 
-Dokumen ini memandu AI Content Strategist untuk membedah **Satu Topik Besar / Tema Kampanye** menjadi **Pohon Percabangan Berakar Dalam dengan Format Ganda Wajib (Twin-Track Format)**: Setiap sudut pandang ide dipecah menjadi **(1) Format Video (Reels/TikTok)** dan **(2) Format Desain Feed / Carousel (Instagram)**.
+Dokumen ini memandu AI Content Strategist untuk menyajikan **Pohon Percabangan Ide** menggunakan **Format Teks Visual Hierarkis (Markdown Outline Tree)**, BUKAN diagram Mermaid SVG lebar yang sering menyusut drastis dan tidak terbaca di layar HP/laptop.
 
 ---
 
-## 🌳 Arsitektur Pohon Percabangan Format Ganda (Twin-Track Architecture)
+## 🚫 Kenapa Mermaid SVG Dilarang untuk Pohon Ranting Lebar?
+Diagram `mermaid` (khususnya `graph TD`) memiliki kelemahan fatal pada antarmuka chat:
+- Semakin banyak ranting horizontal, antarmuka chat akan **memperkecil seluruh diagram secara otomatis** agar pas di lebar layar.
+- Akibatnya, teks di dalam kotak menjadi mikroskopis (hanya 2–3 piksel), gepeng, dan bahkan saat di-zoom menggunakan `Cmd +` tetap buram dan tidak terbaca.
 
-Setiap ranting ide tidak boleh hanya condong ke satu format. Di tingkat eksekusi, setiap sub-topik **wajib membelah menjadi 2 cabang anak sejajar**:
+## ✅ Solusi Standar: Format Pohon Visual Markdown (100% Terbaca & Responsif)
+Gunakan **Pohon Visual Teks Markdown** dengan karakter cabang (`├──`, `└──`, `│`), ikon representatif, dan teks tebal terstruktur. Format ini:
+1. Menggunakan **ukuran font normal** yang jernih dan nyaman dibaca tanpa perlu menyipitkan mata.
+2. Mengalir secara **vertikal** sehingga sangat nyaman di-scroll di laptop maupun layar smartphone.
+3. Saat di-zoom dengan `Cmd +`, ukuran teks membesar dengan proporsional dan tetap tajam.
+4. Mudah diblok, disalin (*copy-paste*), atau dipindahkan langsung ke Google Docs / Notion.
+
+---
+
+## 🌳 Struktur Standar Pohon Visual Teks Format Ganda (Twin-Track)
+
+Setiap sudut pandang ide dipecah menjadi **Format Video (`[-V]`)** dan **Format Desain Feed/Carousel (`[-D]`)**:
 
 ```text
-[Tier 1] TOPIK BESAR / TEMA KAMPANYE
-   │
-   ├── [Tier 2] 4 KLUSTER MAKRO (Persona, Cabang, Anti-Friksi, Momen Lokal)
-   │
-   ├── [Tier 3] SUB-KLUSTER SITUASI NYATA (Micro-Moments di Lapangan)
-   │
-   ├── [Tier 4] ANGLE PSIKOLOGIS & TRIGGER EMOSI
-   │
-   └── [Tier 5 & 6] PERCABANGAN GANDA EKSEKUSI (Bifurkasi Twin-Track):
-         ├── 🎬 [Kode-V] FORMAT VIDEO (Reels / TikTok 9:16)
-         │     ├── Tipe: POV / Talking Head / Skit Komedi / Mini Vlog / Transisi
-         │     ├── Hook 3 Detik: Aksi Kamera + Text Overlay Kontras + SFX/Audio Tren
-         │     └── Target KPI: Viral Reach, Video Views, Engagement (Shares)
-         │
-         └── 📑 [Kode-D] FORMAT DESAIN FEED (Carousel / Multi-Slide 4:5)
-               ├── Tipe: Pose Cheat Sheet / Lookbook / Infografis Rincian / Meme Slide
-               ├── Headline Slide 1: Scroll-Stopping Cover + Badge "📌 Simpan Buat Weekend"
-               ├── Blueprint 7-Slide: Agitasi ➔ Solusi ➔ Bukti Fisik Cetak ➔ Clear CTA
-               └── Target KPI: Saves (Bookmark), Trust, Direct Conversion (Kunjungan)
+🌳 POHON PERCABANGAN IDE: [NAMA TOPIK / TEMA KAMPANYE]
+═══════════════════════════════════════════════════════════════════════════════
+
+👥 KLUSTER A: DINAMIKA PERSONA & RELASI
+├── 📌 [A1] Sub-Topik: [Keresahan / Momen Spesifik Persona 1]
+│   ├── 🎬 [A1-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   │   └── Pilar: [Pilar Konten] | Goal: [KPI Utama]
+│   └── 📑 [A1-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+│       └── Pilar: [Pilar Konten] | Goal: [KPI Utama]
+│
+├── 📌 [A2] Sub-Topik: [Keresahan / Momen Spesifik Persona 2]
+│   ├── 🎬 [A2-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   └── 📑 [A2-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+
+🏠 KLUSTER B: CABANG & FITUR IKONIK
+├── 📌 [B1] Sub-Topik: [Fitur Unik Cabang 1]
+│   ├── 🎬 [B1-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   └── 📑 [B1-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+│
+├── 📌 [B2] Sub-Topik: [Fitur Unik Cabang 2]
+│   ├── 🎬 [B2-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   └── 📑 [B2-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+
+⚠️ KLUSTER C: PERUNTUH FRIKSI & BIAYA
+├── 📌 [C1] Sub-Topik: [Hambatan Biaya / Keraguan Harga]
+│   ├── 🎬 [C1-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   └── 📑 [C1-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+│
+├── 📌 [C2] Sub-Topik: [Hambatan Waktu / Panik Timer / Privasi]
+│   ├── 🎬 [C2-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   └── 📑 [C2-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+
+⏰ KLUSTER D: PEMICU MOMEN & KALENDER LOKAL
+├── 📌 [D1] Sub-Topik: [Momen Weekend / Payday / Hujan Lokal]
+│   ├── 🎬 [D1-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+│   └── 📑 [D1-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
+│
+└── 📌 [D2] Sub-Topik: [Momen Spontan / Nongkrong Ngampus]
+    ├── 🎬 [D2-V] Video (Reels/TikTok): [Tipe Video] — [Judul & Hook 3 Detik]
+    └── 📑 [D2-D] Desain Feed (Carousel 4:5): [Tipe Feed] — [Headline Cover Slide 1]
 ```
 
 ---
 
-## 📌 Studi Kasus Komprehensif: "Kencan Santai, Hemat & Anti-Canggung di Banjarbaru"
+## 📌 Studi Kasus Nyata: "Twin Photobox di Nolima Coffee (1 Sesi, 2 Kamera, 2 Bilik)"
 
-Berikut adalah diagram pohon percabangan Mermaid yang secara sistematis membagi setiap sub-topik menjadi **2 cabang eksekusi (Video & Desain Feed)**:
+Berikut adalah contoh penyajian pohon visual teks yang bersih, nyaman dibaca, dan tidak mengecil di layar:
 
-```mermaid
-graph TD
-    ROOT["🎯 TOPIK: Kencan Santai, Hemat & Anti-Canggung di Banjarbaru"]
+```text
+🌳 POHON PERCABANGAN IDE: Twin Photobox (Tegoer Sapa x Nolima Coffee)
+═══════════════════════════════════════════════════════════════════════════════
 
-    %% TIER 2: 4 KLUSTER UTAMA
-    ROOT --> C_PERSONA["👥 KLUSTER A: DINAMIKA PERSONA & RELASI"]
-    ROOT --> C_BRANCH["🏠 KLUSTER B: CABANG & FITUR IKONIK"]
-    ROOT --> C_FRICTION["⚠️ KLUSTER C: PERUNTUH FRIKSI & KERESAHAN"]
-    ROOT --> C_MOMENT["⏰ KLUSTER D: PEMICU MOMEN & KALENDER LOKAL"]
+👥 KLUSTER A: DINAMIKA PERSONA & RELASI
+├── 📌 [A1] Double Date / 2 Pasangan Nongkrong Bareng
+│   ├── 🎬 [A1-V] Reels (Skit Komedi): "POV Masuk Bilik Kembar Sebelahan: Sebelah Romantis, Sebelah Malah Perang Bantal"
+│   │   └── Hook: "Sensasi double date di bilik kembar pertama Banjarbaru!" | Goal: Shares & Viral Reach
+│   └── 📑 [A1-D] Carousel (Lookbook): "Inspirasi Pose Double Date 4 Orang di Bilik Kembar Nolima"
+│       └── Cover: "Double Date Anti Canggung: 1 Sesi Foto Dapet 2 Angle Sekaligus" | Goal: Saves
+│
+├── 📌 [A2] Bestie Duo / Pasangan Kencan Berdua
+│   ├── 🎬 [A2-V] Reels (Transisi): "Transisi Kompak 2 Kamera Bersebelahan Bareng Bestie"
+│   │   └── Hook: "Biliknya sebelahan tapi kameranya pisah, kok bisa seru gini?" | Goal: Reach
+│   └── 📑 [A2-D] Carousel (Infografis): "Checklist OOTD Tirai Merah & Cermin Gelombang Hijau Nolima"
+│       └── Cover: "3 Trik Foto Aesthetic di Depan Bilik Twin Nolima" | Goal: Saves
 
-    %% KLUSTER A: PERSONA
-    C_PERSONA --> A1_SUB["Sub-Topik A1: Cowok Kaku Anti Gaya 2 Jari"]
-    A1_SUB --> A1_V["🎬 [A1-V] Reels: Talking Head Tutorial Pose<br>Hook: 'Cowok kamu kaku kayak papan? Coba 3 trik ini'<br>Goal: Saves & Reach"]
-    A1_SUB --> A1_D["📑 [A1-D] Carousel: Cheat Sheet 4 Pose Cowok Natural<br>Cover: 'Panduan Pose Cowok Anti Kaku di Photobox'<br>Goal: Saves & Share"]
+🏠 KLUSTER B: CABANG & FITUR IKONIK
+├── 📌 [B1] Mekanisme Unik 1 Sesi 2 Kamera
+│   ├── 🎬 [B1-V] Reels (Edukasi Cepat): "Cara Kerja Twin Photobox: 1 Tiket, 2 Bilik Kayu, 2 Lensa Terpisah"
+│   │   └── Hook: "Banyak yang ngira ini 2 tiket, padahal 1 sesi dapet 2 kamera!" | Goal: Trust & Saves
+│   └── 📑 [B1-D] Carousel (Step-by-Step): "Panduan Visual Cara Maksimalkan 2 Kamera di Twin Nolima"
+│       └── Cover: "Jangan Salah Pakai! Ini Cara Kerja Kamera Kiri vs Kamera Kanan" | Goal: Saves & Education
+│
+├── 📌 [B2] Cermin Gelombang Hijau & Fasad Tirai Merah
+│   ├── 🎬 [B2-V] Reels (Trend Audio): "Mirror Selfie OOTD di Cermin Gelombang Hijau Sebelum Masuk Bilik"
+│   │   └── Hook: "Spot mirror selfie paling aesthetic di Banjarbaru ada di kafe ini" | Goal: Traffic
+│   └── 📑 [B2-D] Carousel (Photo Dump Guide): "Spot Foto Wajib di Nolima Coffee Selain di Dalam Boks"
+│       └── Cover: "Spot Nongkrong Nolima: Ngopi Enak + Foto Aesthetic" | Goal: Brand Affinity
 
-    C_PERSONA --> A2_SUB["Sub-Topik A2: Drama Pasangan Baru / First Date"]
-    A2_SUB --> A2_V["🎬 [A2-V] Reels: Skit Komedi Pasangan Mager<br>Hook: 'POV cowok yang mager difoto pas masuk malah heboh'<br>Goal: Shares & Viral"]
-    A2_SUB --> A2_D["📑 [A2-D] Carousel: Infografis First Date Anti Krik-Krik<br>Cover: 'Kenapa First Date di Photobox Lebih Aman dari Bioskop'<br>Goal: Consideration"]
-
-    %% KLUSTER B: CABANG & FITUR IKONIK
-    C_BRANCH --> B1_SUB["Sub-Topik B1: Spotlight Romantis Hotel Room 605 (Aime)"]
-    B1_SUB --> B1_V["🎬 [B1-V] Reels: POV Sinematik Beralih Lampu Spotlight<br>Hook: 'Tombol rahasia di Kamar 605 bikin muka glowing'<br>Goal: Desire & FOMO"]
-    B1_SUB --> B1_D["📑 [B1-D] Carousel: Guide Perbandingan Mode Lighting Aime<br>Cover: 'Bedanya Lampu Normal vs Spotlight di Room 605'<br>Goal: Saves & Education"]
-
-    C_BRANCH --> B2_SUB["Sub-Topik B2: Nostalgia Vintage Grandpa's House (Hatara)"]
-    B2_SUB --> B2_V["🎬 [B2-V] Reels: Mini Vlog Kencan Retro Jendela Krepyak<br>Hook: 'Ngedate vintage di rumah kayu klasik Banjarbaru'<br>Goal: Reach & Traffic"]
-    B2_SUB --> B2_D["📑 [B2-D] Carousel: Lookbook OOTD Vintage & Frame Jago<br>Cover: 'Inspirasi OOTD Kencan Retro di Grandpa Hatara'<br>Goal: Brand Affinity"]
-
-    %% KLUSTER C: PERUNTUH FRIKSI & BIAYA
-    C_FRICTION --> C1_SUB["Sub-Topik C1: Takut Mahal / Dompet Tipis"]
-    C1_SUB --> C1_V["🎬 [C1-V] Reels: Vlog Bukti 'Kencan 40 Ribuan Dapet Foto'<br>Hook: 'Ngedate modal 20 ribuan per orang emang bisa?'<br>Goal: Conversion"]
-    C1_SUB --> C1_D["📑 [C1-D] Carousel: Infografis Rincian Biaya Simulasi Kencan<br>Cover: 'Breakdown Ngedate <50k di Banjarbaru: Kopi + Foto'<br>Goal: Saves & Action"]
-
-    C_FRICTION --> C2_SUB["Sub-Topik C2: Panik Timer 10 Detik vs Retake Sepuasnya"]
-    C2_SUB --> C2_V["🎬 [C2-V] Reels: Edukasi Cepat Trik Layar di Kean Coffee<br>Hook: 'Gak usah panik timer! Bilik ini bisa retake sepuasnya'<br>Goal: Trust"]
-    C2_SUB --> C2_D["📑 [C2-D] Carousel: Checklist Anti Panik Saat Masuk Bilik<br>Cover: '3 Langkah Tenang Pas Timer Photobox Mulai Jalan'<br>Goal: Saves & Education"]
-
-    %% KLUSTER D: PEMICU MOMEN & KALENDER LOKAL
-    C_MOMENT --> D1_SUB["Sub-Topik D1: Rundown Kencan Malam Minggu"]
-    D1_SUB --> D1_V["🎬 [D1-V] Reels: Transisi OOTD Malam Minggu OTW Photobox<br>Hook: 'Rencana malam minggu ini: Ngopi santai lalu foto'<br>Goal: Traffic"]
-    D1_SUB --> D1_D["📑 [D1-D] Carousel: Guide Rundown Itinerary Kencan Banjarbaru<br>Cover: 'Rundown Kencan Malam Minggu Banjarbaru Anti Bosan'<br>Goal: Saves & Guide"]
-
-    C_MOMENT --> D2_SUB["Sub-Topik D2: Hujan Sore Syahdu di Banjarbaru"]
-    D2_SUB --> D2_V["🎬 [D2-V] Reels: Atmospheric Aesthetic Mood Hujan & Bilik Foto<br>Hook: 'Tempat neduh paling romantis pas hujan deras sore'<br>Goal: Shares & Viral"]
-    D2_SUB --> D2_D["📑 [D2-D] Carousel: Curated List Spot Kafe Neduh Hujan<br>Cover: 'Melipir Neduh: 5 Kafe Photobox Syahdu di Banjarbaru'<br>Goal: Saves & Community"]
+⚠️ KLUSTER C: PERUNTUH FRIKSI & ATURAN RETAKE
+├── 📌 [C1] Trik Retake Detik Terakhir (Bisa Pilih Kamera Kiri / Kanan)
+│   ├── 🎬 [C1-V] Reels (Tutorial Taktis): "Trik Rahasia: Take Terakhir di Nolima Bisa Diulang Kamera Mana Aja!"
+│   │   └── Hook: "Gak sengaja merem pas take terakhir? Tenang, bisa diulang!" | Goal: Saves & Trust
+│   └── 📑 [C1-D] Carousel (Cheat Sheet): "Tutorial Layar: Cara Retake Kamera Kiri atau Kanan Tanpa Panik"
+│       └── Cover: "Fitur Rahasia Nolima: Cara Retake Detik Terakhir" | Goal: Saves
+│
+└── 📌 [C2] Transparansi Biaya Rp35.000 / 5 Menit
+    ├── 🎬 [C2-V] Reels (Vlog Bukti): "Patungan 17 Ribuan Bareng Bestie Dapet Foto Cetak Twin Photobox"
+    │   └── Hook: "Cuma 35 ribu berdua udah dapet 2 bilik foto unik?" | Goal: Conversion
+    └── 📑 [C2-D] Carousel (Infografis Biaya): "Rincian Biaya Hangout Hemat di Nolima: Kopi + Twin Photobox"
+        └── Cover: "Breakdown Ngedate 50 Ribuan di Nolima Coffee" | Goal: Saves & Action
 ```
 
 ---
 
-## 📋 Menu Ringkasan Kode Ranting Format Ganda (Twin-Track Quick Selection Menu)
+## 📋 Menu Ringkasan Kode Ranting Format Ganda (Quick Selection Menu)
 
-Di bawah diagram Mermaid, AI **wajib menyajikan tabel berpasangan** ini agar pengguna dapat dengan mudah memilih:
-1. Ingin mengeksekusi **Format Video saja (`-V`)**,
-2. Ingin mengeksekusi **Format Desain Feed saja (`-D`)**,
-3. Atau ingin mengeksekusi **Sepaket Sekaligus (Video + Desain Feed)**!
+Di bawah pohon visual teks, AI **wajib menyajikan tabel ringkasan** ini agar pengguna tinggal mengetikkan kodenya:
 
 | Sub-Topik / Angle Masalah | 🎬 Jalur Konten Video (Reels/TikTok) | 📑 Jalur Desain Feed (Carousel 4:5) | Pilar & Goal |
 |---|---|---|---|
-| **[A1] Cowok Kaku Anti Gaya 2 Jari** | **[A1-V]** Reels: Talking Head 3 Pose Cowok Simpel | **[A1-D]** Carousel: Cheat Sheet 4 Pose Grid Natural | Tutorial (*Saves*) |
-| **[A2] Drama Pasangan / First Date** | **[A2-V]** Reels: Skit Komedi Cowok Mager Malah Heboh | **[A2-D]** Carousel: Infografis Alasan Photobox Aman Buat First Date | Hiburan / Edukasi (*Shares*) |
-| **[B1] Spotlight Hotel Room 605 (Aime)** | **[B1-V]** Reels: POV Sinematik Mode Lampu Spotlight | **[B1-D]** Carousel: Perbandingan Visual Lampu Normal vs Spotlight | Inspirasi / Edukasi (*Desire*) |
-| **[B2] Vintage Nostalgia Hatara** | **[B2-V]** Reels: Mini Vlog Kencan Jendela Krepyak | **[B2-D]** Carousel: Lookbook OOTD Retro & Frame Jago | Inspirasi (*Affinity*) |
-| **[C1] Takut Mahal / Dompet Tipis** | **[C1-V]** Reels: Vlog Bukti Bayar Kencan 40 Ribuan | **[C1-D]** Carousel: Breakdown Rincian Biaya Kencan <Rp50k | Promosi (*Conversion*) |
-| **[C2] Panik Timer vs Retake Sepuasnya** | **[C2-V]** Reels: Edukasi Trik Layar Retake Kean Coffee | **[C2-D]** Carousel: Step-by-Step Trik Anti Panik di Bilik | Edukasi (*Trust*) |
-| **[D1] Rundown Kencan Malam Minggu** | **[D1-V]** Reels: Transisi OOTD Malam Minggu Berdua | **[D1-D]** Carousel: Itinerary 1 Hari Kencan Banjarbaru | Tutorial (*Saves*) |
-| **[D2] Hujan Sore di Banjarbaru** | **[D2-V]** Reels: Video Mood Sinematik Neduh Pas Hujan | **[D2-D]** Carousel: Rekomendasi Spot Neduh & Foto Kafe | Hiburan (*Shares*) |
+| **[A1] Double Date Bilik Kembar** | **[A1-V]** Reels: Skit Komedi Double Date Beda Vibe | **[A1-D]** Carousel: Guide Pose Double Date 4 Orang | Hiburan / Saves |
+| **[A2] Bestie Duo / Pasangan** | **[A2-V]** Reels: Transisi Kompak 2 Kamera Berbeda | **[A2-D]** Carousel: OOTD Guide Tirai Merah & Cermin Hijau | Reach / Saves |
+| **[B1] Mekanisme 1 Sesi 2 Kamera** | **[B1-V]** Reels: Edukasi Cara Kerja 2 Kamera Nolima | **[B1-D]** Carousel: Step-by-Step Kamera Kiri vs Kanan | Edukasi (*Trust*) |
+| **[B2] Cermin Gelombang Hijau** | **[B2-V]** Reels: Trend OOTD Mirror Selfie Luar Bilik | **[B2-D]** Carousel: Spot Foto Instagrammable di Nolima | Inspirasi (*Desire*) |
+| **[C1] Trik Retake Take Terakhir** | **[C1-V]** Reels: Tutorial Retake Kamera Kiri / Kanan | **[C1-D]** Carousel: Cheat Sheet Layar Retake Tanpa Panik | Tutorial (*Saves*) |
+| **[C2] Biaya Hemat Rp35k Sesi** | **[C2-V]** Reels: Vlog Patungan 17 Ribuan Dapet Cetak | **[C2-D]** Carousel: Rincian Biaya Kencan Nolima <50k | Promosi (*Conversion*) |
 
 ---
 
-## 🎯 Panduan Interaksi & Cara Pengguna Memilih:
+## 🎯 Cara Memilih Ranting:
 
-Pengguna memiliki fleksibilitas penuh untuk memilih:
-- **Opsi 1 (Hanya Video)**: *"Aku pilih video [A1-V] dan [C1-V] ya!"* ➔ AI meracik Brief Tim Konten Video (Shotlist + Hook + Audio) dan Brief KOL.
-- **Opsi 2 (Hanya Desain Feed)**: *"Buatin brief desain carousel [A1-D] dan [B1-D] ya!"* ➔ AI meracik Brief Desainer Grafis (Blueprint 7-Slide + Dimensi 4:5 + Palet Warna + Caption SEO).
-- **Opsi 3 (Paket Lengkap Sepasang)**: *"Bungkus paket [A1] dan [C1] lengkap (Video + Desain Feed)!"* ➔ AI menghasilkan paket komplit untuk Video Editor dan Desainer Grafis sekaligus!
+Pengguna cukup mengetik santai:
+- *"Bungkus [A1-V] dan [C1-V]"* ➔ AI langsung buatkan Brief Video & Brief KOL WA.
+- *"Aku pilih desain [A1-D] dan [B1-D]"* ➔ AI buatkan Brief Desainer Grafis 7-Slide & Brief KOL WA.
+- *"Bungkus paket [A1] dan [C1]!"* ➔ AI buatkan paket lengkap Video + Desain Feed.

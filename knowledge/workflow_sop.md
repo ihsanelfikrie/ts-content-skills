@@ -17,7 +17,7 @@ Putaran 1: Tanggapan Awal & 2-3 Pertanyaan Pemantik Diskusi (Target? Cabang? Goa
        ↓
 [User Menjawab & Memberi Arah Diskusi]
        ↓
-Putaran 2: Visualisasi Diagram Pohon Format Ganda (Twin-Track: Video & Desain Feed)
+Putaran 2: Visualisasi Pohon Teks Format Ganda (Markdown Tree — Anti-Kekecilan & 100% Terbaca)
           + Tabel Menu Kode Ranting Berpasangan (Jalur Video [-V] & Jalur Desain Feed [-D])
        ↓
 [User Memilih Kode Ranting (Contoh: "[A1-V]", "[B1-D]", atau paket sepasang "[A1]")]

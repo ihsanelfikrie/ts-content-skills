@@ -152,33 +152,30 @@ Contoh dialog lengkap saat pengguna memulai percakapan dari tema besar:
 > 1A dan 1C, fokus lintas cabang, tujuannya campuran Saves tutorial dan Shares hiburan!
 
 **Claude / AI:**
-> Siap, ini visualisasi Pohon Percabangan Ide Format Ganda (Twin-Track) yang membagi setiap sudut masalah menjadi **Jalur Video (Reels/TikTok)** dan **Jalur Desain Feed / Carousel**:
+> Siap, ini Pohon Percabangan Ide Format Ganda (Pohon Teks Markdown) yang 100% terbaca dengan ukuran font normal tanpa menyusut di layar:
 >
-> ```mermaid
-> graph TD
->     ROOT["🎯 Kencan Anti-Canggung Mahasiswa Banjarbaru"]
->     ROOT --> C_PERSONA["👥 KLUSTER A: PERSONA & RELASI"]
->     ROOT --> C_BRANCH["🏠 KLUSTER B: VIBE CABANG"]
->     ROOT --> C_FRICTION["⚠️ KLUSTER C: PERUNTUH FRIKSI"]
+> ```text
+> 🌳 POHON PERCABANGAN IDE: Kencan Anti-Canggung Mahasiswa Banjarbaru
+> ═════════════════════════════════════════════════════════════════════════════
 > 
->     %% KLUSTER A
->     C_PERSONA --> A1["Sub A1: Cowok Kaku Anti Gaya 2 Jari"]
->     A1 --> A1_V["🎬 [A1-V] Reels: Tutorial 3 Pose Cowok Simpel<br>Goal: Saves & Reach"]
->     A1 --> A1_D["📑 [A1-D] Carousel: Cheat Sheet 4 Pose Grid Natural<br>Goal: Saves"]
+> 👥 KLUSTER A: DINAMIKA PERSONA & RELASI
+> ├── 📌 [A1] Cowok Kaku Anti Gaya 2 Jari
+> │   ├── 🎬 [A1-V] Reels (Tutorial): 3 Pose Cowok Simpel | Goal: Saves & Reach
+> │   └── 📑 [A1-D] Carousel (Cheat Sheet): 4 Pose Grid Natural | Goal: Saves
+> │
+> └── 📌 [A2] First Date Awkward
+>     ├── 🎬 [A2-V] Reels (Skit Komedi): Pasangan Mager Malah Heboh | Goal: Shares
+>     └── 📑 [A2-D] Carousel (Infografis): Alasan Photobox Aman Buat First Date | Goal: Consideration
 > 
->     C_PERSONA --> A2["Sub A2: First Date Awkward"]
->     A2 --> A2_V["🎬 [A2-V] Reels: Skit Pasangan Mager Malah Heboh<br>Goal: Shares"]
->     A2 --> A2_D["📑 [A2-D] Carousel: 3 Alasan Photobox Aman Buat First Date<br>Goal: Consideration"]
+> 🏠 KLUSTER B: CABANG & FITUR IKONIK
+> └── 📌 [B1] Spotlight Romantis Hotel Room 605 (Aime)
+>     ├── 🎬 [B1-V] Reels (Sinematik): Mode Spotlight Glowing | Goal: Desire
+>     └── 📑 [B1-D] Carousel (Guide): Perbandingan Normal vs Spotlight | Goal: Saves
 > 
->     %% KLUSTER B
->     C_BRANCH --> B1["Sub B1: Spotlight Romantis Aime Room 605"]
->     B1 --> B1_V["🎬 [B1-V] Reels: POV Sinematik Mode Spotlight Glowing<br>Goal: Desire"]
->     B1 --> B1_D["📑 [B1-D] Carousel: Perbandingan Normal vs Spotlight<br>Goal: Saves"]
-> 
->     %% KLUSTER C
->     C_FRICTION --> C1["Sub C1: Dompet Tipis Mahasiswa"]
->     C1 --> C1_V["🎬 [C1-V] Reels: Vlog Bukti Bayar Kencan 40 Ribuan<br>Goal: Conversion"]
->     C1 --> C1_D["📑 [C1-D] Carousel: Breakdown Rincian Biaya <50k<br>Goal: Saves & Action"]
+> ⚠️ KLUSTER C: PERUNTUH FRIKSI & BIAYA
+> └── 📌 [C1] Dompet Tipis Mahasiswa
+>     ├── 🎬 [C1-V] Reels (Vlog Bukti): Kencan 40 Ribuan Dapet Foto | Goal: Conversion
+>     └── 📑 [C1-D] Carousel (Infografis): Breakdown Biaya <50k | Goal: Saves & Action
 > ```
 >
 > ### 📋 Menu Ringkasan Kode Ranting Format Ganda

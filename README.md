@@ -35,7 +35,7 @@ Tegoersapa content skills/
 │   ├── social_media_playbook.md # Playbook Social Media Specialist (Algoritma, SEO, Psikologi Viral)
 │   ├── content_pillars.md    # 5 pilar konten & tujuan strategis (Reach/Saves/Conversion)
 │   ├── hook_bank.md          # Bank kalimat hook 3 detik pemicu rasa penasaran
-│   ├── brainstorming_tree.md # Framework pohon percabangan ide (Mermaid Tree)
+│   ├── brainstorming_tree.md # Framework pohon percabangan ide visual (Markdown Text Tree)
 │   ├── content_catalog.md    # Katalog format video pendek & carousel feed
 │   ├── workflow_sop.md       # Panduan rinci SOP (Pohon Ide & SOP 3 Fase)
 │   └── audience.md           # Profil persona UIN Antasari & Gen Z Banjarbaru
@@ -46,7 +46,7 @@ Tegoersapa content skills/
 ---
 
 ## ⚡ Perintah Cepat (Shortcuts)
-- `/brainstorm [topik]` : Otomatis buatkan diagram pohon percabangan ide (Mermaid Tree).
+- `/brainstorm [topik]` : Otomatis buatkan pohon percabangan ide visual (Markdown Text Tree).
 - `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (*Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific*).
 - `/sprint [cabang]` : Rancang rundown syuting batching 120 menit & shotlist 1 minggu untuk cabang tersebut.
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
