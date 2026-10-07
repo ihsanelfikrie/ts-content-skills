@@ -24,6 +24,27 @@ Fase 3: Persiapan Ekspor (Tabel Markdown Final Siap Copy ke Docs)
 
 ---
 
+## Katalog Tipe Konten
+
+Saat merancang ide konten di Fase 2, kamu **wajib memilih dan mengombinasikan tipe konten** dari daftar di bawah ini agar variatif dan tidak monoton:
+
+### Kategori Video Pendek (Reels/TikTok):
+- **POV (Point of View)**: Menempatkan audiens seolah-olah mereka yang sedang mengalami langsung (Contoh: *"POV: Kamu nemuin hidden gem photobooth di dalam kafe"*).
+- **Talking Head / Edukasi Cepat**: Kreator berbicara langsung ke kamera untuk menjelaskan fitur unik, tips pose, atau menjawab keraguan audiens secara lugas.
+- **BTS (Behind the Scenes)**: Menampilkan keseruan di balik layar, proses mesin mencetak foto, atau candid orang-orang yang sedang bersiap berfoto.
+- **A Day in My Life / Mini Vlog**: Bercerita gaya vlog santai, dimulai dari nongkrong di kafe (Hatara/Nolima/Aime/Warkop Sirkem/Kean) lalu ditutup dengan sesi foto di Tegoer Sapa.
+- **Skit / Sketsa Relatable**: Akting komedi singkat tentang keresahan audiens (Contoh: Drama rebutan milih frame, atau kecanggungan gaya foto bagi cowok).
+- **Trend Transisi Visual**: Menggunakan audio viral dengan transisi mulus, seperti perubahan outfit atau transisi dari luar booth tiba-tiba sudah berada di dalam dengan hasil cetakan.
+
+### Kategori Feed (Carousel / Single Post):
+- **Infografis / Checklist**: Panduan step-by-step yang estetik (Contoh: *"3 Tips Dapet Pencahayaan Sempurna di Hotel Room 605"*).
+- **Meme / Relatable Humor**: Desain grafis santai yang memvalidasi keresahan audiens menggunakan elemen humor atau pop-culture kekinian.
+- **Lookbook / Pose Inspiration**: Desain yang menampilkan grid hasil foto asli dari audiens sebagai referensi gaya (Contoh: *"Inspirasi Pose Sama Bestie di Library Photobox"*).
+- **Q&A Slide**: Mengemas pertanyaan yang sering diajukan (FAQ) tentang cara bayar, sistem antrean, atau durasi ke dalam desain tipografi yang rapi.
+- **Hard Selling / Promo Announcement**: Desain informatif yang menonjolkan harga (seperti Rp25.000 atau Rp35.000), diskon, atau peluncuran frame edisi baru.
+
+---
+
 ## Detail Fase 1: Bedah Masalah (Discovery)
 
 - **Tujuan**: Menggali keresahan dan keraguan nyata audiens seputar cabang terpilih.
@@ -35,26 +56,24 @@ Fase 3: Persiapan Ekspor (Tabel Markdown Final Siap Copy ke Docs)
 
 ---
 
-## Detail Fase 2: Ideasi A/B Testing (Integrasi Katalog Tipe Konten)
+## Detail Fase 2: Ideasi A/B Testing
 
-- **Tujuan**: Menghasilkan 2 opsi konten kreatif dengan **wajib memilih format dari [KATALOG TIPE KONTEN]** agar tidak monoton.
-- **Trigger**: Pengguna memilih nomor masalah (misal: "Nomor 2").
-- **Format Output**:
-  
-  ### Opsi A (Video Reels / TikTok)
-  - **Tipe Video**: Sebutkan tipe yang dipilih dari katalog (POV / Talking Head / BTS / Mini Vlog / Skit / Trend Transisi Visual).
-  - **Hook (3 detik pertama)**: Teks overlay + aksi visual pembuka.
-  - **Alur Adegan Visual**: Instruksi syuting mendetail shot-by-shot, kamera, dan pergerakan model.
-  - **Ide Audio**: Rekomendasi musik/audio tren, tone voiceover, atau sound effect.
+Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih format dari **[KATALOG TIPE KONTEN]**:
 
-  ### Opsi B (Carousel Feed)
-  - **Tipe Feed**: Sebutkan tipe yang dipilih dari katalog (Infografis/Checklist / Meme/Humor / Lookbook/Pose / Q&A Slide / Hard Selling).
-  - **Headline Slide 1**: Judul pemicu rasa penasaran yang *scroll-stopping*.
-  - **Struktur Copywriting per Slide**: Penjabaran teks slide demi slide dari pembuka hingga CTA.
-  - **Arahan Elemen Visual**: Rekomendasi palet warna, tipografi, ornamen grafis, dan layout gambar.
+### Opsi A (Video Reels/TikTok)
+- Sebutkan **[Tipe Video yang dipilih dari katalog]**
+- **Hook (3 detik pertama)**: Teks overlay + aksi visual pembuka yang memikat.
+- **Alur Adegan Visual**: Instruksi syuting mendetail shot-by-shot, gerakan kamera, dan pergerakan model.
+- **Ide Audio**: Rekomendasi musik/audio tren, tone voiceover, atau sound effect penegas humor.
 
-  - Kalimat penutup standar (WAJIB):
-    > **"Ide ini sudah pas, atau ada yang perlu direvisi sebelum masuk draf final?"**
+### Opsi B (Carousel Feed)
+- Sebutkan **[Tipe Feed yang dipilih dari katalog]**
+- **Headline Slide 1**: Copywriting judul pemikat yang *scroll-stopping*.
+- **Struktur Copywriting per Slide**: Penjabaran konten slide demi slide sampai CTA penutup.
+- **Arahan Elemen Visual**: Rekomendasi palet warna (Hex/deskripsi warna), ornamen grafis/elemen vektor, layout gambar, dan font mood.
+
+- Kalimat penutup standar (WAJIB):
+  > **"Ide ini sudah pas, atau ada yang perlu direvisi sebelum masuk draf final?"**
 
 ---
 
