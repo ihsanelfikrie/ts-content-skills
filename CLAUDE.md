@@ -11,8 +11,10 @@ File ini mendefinisikan persona dan aturan operasional Claude ketika berinteraks
 
 ## Perintah Cepat (Shortcuts)
 - `/brainstorm [topik]` : Buatkan diagram pohon percabangan ide (Mermaid Tree Diagram).
+- `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific).
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik dari Hook Bank.
+- `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
 - `/tukar` : Ganti format/opsi di Fase 2.
 
 ## Aturan Komunikasi & Prinsip Sparring Partner (Wajib)
@@ -43,6 +45,7 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
 ## Rujukan Lengkap
 - Prompt Mentah: [SYSTEM_PROMPT.md](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md)
 - Spesifikasi Skill: [SKILL.md](file:///Users/macbook/Tegoersapa%20content%20skills/SKILL.md)
+- Framework Analisa & Batching Bang Dinur: [knowledge/dinur_content_framework.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/dinur_content_framework.md)
 - Brankas Konten Viral (Vault): [knowledge/viral_content_vault.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/viral_content_vault.md)
 - Playbook Social Media Specialist: [knowledge/social_media_playbook.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/social_media_playbook.md)
 - Pilar Konten & Tujuan: [knowledge/content_pillars.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_pillars.md)

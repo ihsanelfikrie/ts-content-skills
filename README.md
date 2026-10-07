@@ -22,6 +22,7 @@ Tegoersapa content skills/
 ├── CLAUDE.md                 # Petunjuk operasional Claude saat bekerja di repo ini
 ├── .gitignore                # Konfigurasi ignore file macOS / cache
 ├── knowledge/                # Basis pengetahuan & data pendukung
+│   ├── dinur_content_framework.md # Framework Analisa Konten & Batching Ide (Bang Dinur)
 │   ├── branches.md           # Detail spesifikasi 5 cabang & fitur khasnya
 │   ├── viral_content_vault.md # Brankas Konten Viral (5 Serial Konten, Subkultur Estetika, Anti-Friksi)
 │   ├── social_media_playbook.md # Playbook Social Media Specialist (Algoritma, SEO, Psikologi Viral)
@@ -39,8 +40,10 @@ Tegoersapa content skills/
 
 ## ⚡ Perintah Cepat (Shortcuts)
 - `/brainstorm [topik]` : Otomatis buatkan diagram pohon percabangan ide (Mermaid Tree).
+- `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (*Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific*).
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik variatif dari Hook Bank.
+- `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
 - `/tukar` : Berikan variasi/alternatif format baru untuk Opsi A atau Opsi B di Fase 2.
 
 ---

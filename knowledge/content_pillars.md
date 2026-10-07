@@ -56,3 +56,20 @@ Untuk menjaga akun tetap menarik dan tidak terkesan membosankan atau jualan teru
 - **30% Edukasi & Tutorial**: Menjawab keraguan dan menjadi referensi yang disimpan (Saves & Trust).
 - **20% Inspirasi & Social Proof**: Membangun estetika brand dan memicu rasa ingin mencoba (Desire).
 - **10% Promosi Hard Sell**: Konversi penjualan langsung tanpa membuat audiens jenuh (Conversion).
+
+---
+
+## 💡 Prinsip Bang Dinur: Content Pillar vs Content Value
+
+> *"Content pillar menunjukkan apa yang kita produksi; performa menunjukkan apa yang bekerja. Keduanya TIDAK sama."*
+
+1. **Content Pillar**: Panduan topik bahasan (misal: Fitur Bilik, Pose & Gaya, Kencan Kafe).
+2. **Content Value**: Cara / nilai penyampaian topik tersebut (Edukasi, Hiburan, Solusi).
+
+### 5 Faktor Sebenarnya Penentu Performa Konten:
+Pilar konten **tidak menjamin performa secara mandiri**. Yang menentukan performa adalah:
+1. **Performance**: Eksekusi teknis (visual hook 3 detik, pacing naskah, emosi pembawaan).
+2. **Objective**: Kejelasan metrik yang dibidik (bukan sekadar posting tanpa arah).
+3. **Audience**: Kedekatan emosional dan relevansi dengan masalah audiens lokal.
+4. **Conversion**: Kemudahan instruksi ajakan aksi (Call to Action yang tegas dan tidak bertele-tele).
+5. **Brand Role**: Tegoer Sapa hadir sebagai solusi nyata atas rasa canggung atau keraguan mereka.

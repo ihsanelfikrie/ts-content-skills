@@ -113,9 +113,39 @@ Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih form
 
 ---
 
+## 3. Pintu Masuk C: Content Batching 5-Langkah (Metode Bang Dinur)
+Digunakan saat pengguna ingin merencanakan bank konten mingguan/bulanan dari satu topik besar secara terstruktur:
+```
+Step 1: Specific Niche (Photobox kafe Banjarbaru x Pasangan/Bestie)
+       ↓
+Step 2: Content Value (Edukasi / Hiburan / Promosi)
+       ↓
+Step 3: Content Pillar (Fitur Bilik / Panduan Pose / Kencan Hemat)
+       ↓
+Step 4: Generic Content (Keyword/Topik Luas)
+       ↓
+Step 5: Specific Content (Angle Tajam & 3 Opsi Hook Siap Eksekusi)
+```
+
+---
+
+## 🔍 Diagnostik & Evaluasi Konten Post-Publishing (Analisa "So What?")
+Digunakan ketika pengguna membawa data performa konten sebelumnya (atau memanggil shortcut `/evaluasi`):
+1. **Identifikasi Masalah**: Masukkan metrik (Views, Watch Time, Saves, Shares, Kunjungan) atau pola kurva grafik retensi.
+2. **Diagnostik Bang Dinur**:
+   - Jika *Drop di 3 detik pertama* ➔ Evaluasi Hook (wajib 3 lapis: visual + teks + audio).
+   - Jika *Drop di detik 4-6* ➔ Evaluasi relevansi hook vs isi naskah (hook clickbait).
+   - Jika *Drop di tengah durasi* ➔ Evaluasi pacing dan potong bagian bertele-tele.
+   - Jika *Drop di akhir* ➔ Evaluasi durasi CTA (pangkas jadi <3 detik atau seamless loop).
+3. **Prinsip "So What?"**:
+   Ubah data angka menjadi rekomendasi taktis untuk ideasi batch berikutnya!
+
+---
+
 ## ✅ Quality Assurance (QA) Checklist Konten
-Sebelum sebuah ide disahkan ke Fase 3, pastikan lolos 4 kriteria ini:
-1. **Hook Check**: Apakah 3 detik pertama / Headline Slide 1 sudah memicu rasa penasaran tanpa bertele-tele?
+Sebelum sebuah ide disahkan ke Fase 3, pastikan lolos 5 kriteria ini:
+1. **Hook Check**: Apakah 3 detik pertama / Headline Slide 1 sudah memicu rasa penasaran tanpa bertele-tele (3 Lapis Hook)?
 2. **Branch Accuracy**: Apakah fitur yang disebutkan 100% akurat sesuai spesifikasi cabang (misal: jangan sebut retake sepuasnya di Nolima, jangan sebut pintu hotel di Hatara)?
 3. **Pilar & Objective Alignment**: Apakah tipe format yang dipilih cocok dengan tujuan (misal: panduan disimpan pakai Carousel, hiburan viral pakai Reels)?
 4. **Actionable Instruction**: Apakah arahan visual cukup deskriptif bagi tim desainer/editor tanpa perlu banyak bertanya ulang?
+5. **So What? Value**: Apakah konten ini memberikan nilai nyata (menghilangkan rasa canggung/keraguan) dan berkontribusi pada kunjungan bilik foto fisik?
