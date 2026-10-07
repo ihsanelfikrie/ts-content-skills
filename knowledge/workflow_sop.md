@@ -17,10 +17,10 @@ Putaran 1: Tanggapan Awal & 2-3 Pertanyaan Pemantik Diskusi (Target? Cabang? Goa
        ↓
 [User Menjawab & Memberi Arah Diskusi]
        ↓
-Putaran 2: Visualisasi Diagram Pohon Mendalam (5-Tier Deep Tree: 10–14 Ranting)
-          + Tabel Menu Kode Ranting ([A1], [A2], [B1], [B2], [C1], dst.)
+Putaran 2: Visualisasi Diagram Pohon Berakar Dalam (6-Tier Deep Tree: 16–20+ Ranting)
+          + Tabel Menu Kode Ranting ([A1] s/d [D5] + Multiplier Turunan)
        ↓
-[User Memilih & Me-approve Kode Ranting yang Pas (Contoh: "Bungkus [A1] dan [C2]")]
+[User Memilih & Me-approve Kode Ranting yang Pas (Contoh: "Bungkus [A2], [B1], dan [C1]")]
        ↓
 Putaran 3 (Output Final): Ekspor Brief Siap Pakai:
        ├── 1. Brief Singkat Tim Konten (Internal: Shotlist, Hook 3-Lapis, Arahan Visual & Copy, SEO)

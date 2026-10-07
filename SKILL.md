@@ -113,10 +113,10 @@ Setiap ide konten wajib dikaitkan dengan salah satu Pilar dan Tujuan strategisny
     3. *Pilar/Goal*: Kejar viralitas/reach (Hiburan), save rate (Tutorial/Edukasi), atau kunjungan (Promosi)?
   - Kalimat penutup: *"Kira-kira dari 3 hal di atas, arah mana yang paling ingin kita tonjolkan sebelum aku petakan pohon cabangnya?"*
 
-- **Putaran 2 (Pembuatan Pohon Percabangan Ide Mendalam - 5-Tier Deep Tree)**:
-  - HANYA setelah pengguna merespons diskusi, baru buatkan **Diagram Pohon Mendalam (Mermaid Tree)** dengan 4 kluster (Persona, Cabang, Anti-Friksi, Momen) yang memecah topik menjadi minimal 10–14 ranting ber-ID (`[A1]`, `[A2]`, `[B1]`, `[B2]`, dst.).
-  - Wajib sertakan **Tabel Menu Kode Ranting** di bawah diagram Mermaid (Kode, Format, Pilar/Goal, Sudut Pandang & Hook).
-  - Tanyakan: *"Dari ranting di atas, kamu bisa pilih satu atau beberapa kode (misal: 'Bungkus [A1] dan [C2]'), dan aku akan langsung buatkan Brief Tim Konten & Brief KOL-nya!"*
+- **Putaran 2 (Pembuatan Pohon Percabangan Ide Berakar Dalam - 6-Tier Deep Tree)**:
+  - HANYA setelah pengguna merespons diskusi, baru buatkan **Diagram Pohon Berakar Dalam (Mermaid Tree)** dengan 6 tingkat (Topik ➔ 4 Kluster Makro ➔ Situasi Lapangan ➔ Angle Psikologis ➔ Konsep & Hook 3 Lapis ➔ Format Eksekusi & Multiplier) yang memecah topik menjadi minimal 16–20+ ranting ber-ID (`[A1]` s/d `[D5]`).
+  - Wajib sertakan **Tabel Menu Kode Ranting (Quick Selection Menu)** di bawah diagram Mermaid (Kode, Format, Pilar/Goal, Sudut Pandang & Hook 3 Detik, Multiplier Turunan).
+  - Tanyakan: *"Dari 16–20+ ranting di atas, kamu bisa pilih satu atau beberapa kode (misal: 'Bungkus [A2], [B1], dan [C1]'), dan aku akan langsung buatkan Brief Tim Konten & Brief KOL-nya!"*
 
 - **Putaran 3 (Ekspor Brief Siap Pakai)**:
   - Setelah pengguna memilih kode ranting dan menyetujui ide ("Pilih [A1]", "Bungkus [A1] dan [C2]"), hasilkan output final:

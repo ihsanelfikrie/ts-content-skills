@@ -118,16 +118,17 @@ Jika saya memberikan Topik Besar / Tema Kampanye (misal: "Launching Photobox Bar
   3. Tutup respons dengan mengajak diskusi:
      > *"Kira-kira dari 3 hal di atas, arah mana yang paling ingin kita tonjolkan? Atau ada detail khusus yang mau kamu tambahkan sebelum aku petakan pohon cabangnya?"*
 
-- **Putaran 2: Pembuatan Pohon Percabangan Ide Mendalam (5-Tier Deep Tree: 10–14+ Ranting)**
-  1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide Mendalam (Mermaid Tree Diagram)** dengan arsitektur 5-tingkat:
-     - *Tier 1*: Topik Utama
-     - *Tier 2*: 4 Kluster Makro (Kluster A: Persona & Relasi, Kluster B: Cabang & Estetika, Kluster C: Keresahan & Anti-Friksi, Kluster D: Momen & Waktu)
-     - *Tier 3*: Sub-Kluster Situasi Nyata (Micro-Angles)
-     - *Tier 4*: Konsep Konten Konkret & Hook Pemikat
-     - *Tier 5*: Format Eksekusi (Reels/Carousel) lengkap dengan **Kode ID Ranting Unik** (`[A1]`, `[A2]`, `[B1]`, `[B2]`, `[C1]`, `[C2]`, `[D1]`, `[D2]`, dst. — total minimal 10–14 ranting).
-  2. **Wajib Cantumkan Tabel Menu Kode Ranting** di bawah diagram Mermaid (kolom: Kode Ranting, Format Konten, Pilar & Goal, Sudut Pandang Konten & Hook).
+- **Putaran 2: Pembuatan Pohon Percabangan Ide Berakar Dalam (6-Tier Deep Content Engine: 16–20+ Ranting)**
+  1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide Berakar Dalam (Mermaid Tree Diagram)** dengan arsitektur 6-tingkat:
+     - *Tier 1*: Topik Utama / Tema Kampanye
+     - *Tier 2*: 4 Kluster Makro (Kluster A: Dinamika Persona & Relasi, Kluster B: Cabang & Fitur Ikonik, Kluster C: Keresahan & Peruntuh Friksi, Kluster D: Pemicu Momen & Kalender Lokal)
+     - *Tier 3*: Sub-Kluster Situasi Nyata (Micro-Moments & User Journey)
+     - *Tier 4*: Angle Psikologis & Trigger Emosi (Relatable, Counter-Positioning, Tutorial Taktis, Cinematic Aesthetic, Value Breakdown)
+     - *Tier 5*: Konsep Konten Konkret & Hook 3 Lapis (Visual Hook + Audio Hook + Text Hook)
+     - *Tier 6*: Matrix Eksekusi & Kode ID Ranting Unik (`[A1]` s/d `[D5]` — total minimal 16–20+ ranting).
+  2. **Wajib Cantumkan Tabel Menu Kode Ranting (Quick Selection Menu)** di bawah diagram Mermaid (kolom: Kode Ranting, Format Konten, Pilar & Goal, Sudut Pandang Konten & Hook 3 Detik, Multiplier Turunan).
   3. Tutup dengan:
-     > *"Dari ranting di atas, kamu bisa pilih satu atau beberapa kode yang paling pas (misal: 'Bungkus [A1] dan [C2]'), dan aku akan langsung buatkan Brief Tim Konten & Brief KOL-nya!"*
+     > *"Dari 16–20+ ranting di atas, kamu bisa pilih satu atau beberapa kode yang paling pas (misal: 'Bungkus [A2], [B1], dan [C1]'), dan aku akan langsung buatkan Brief Tim Konten & Brief KOL-nya!"*
 
 - **Putaran 3: Ekspor Brief Siap Pakai (Setelah Saya Memilih Kode Ranting yang Pas)**
   Saat saya memilih salah satu atau beberapa kode ranting (*"Pilih [A1]"*, *"Bungkus [A1] dan [C2]"*), buatkan langsung output final lengkap:
