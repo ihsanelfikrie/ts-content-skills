@@ -8,18 +8,18 @@ Aturan emas bagi AI Content Strategist: **Jangan memborong respon sekaligus.** S
 
 Ada dua pintu masuk (entry point) interaksi:
 
-### 1. Pintu Masuk A: Brainstorming Topik Besar (Pohon Percabangan Ide)
+### 1. Pintu Masuk A: Brainstorming Topik Besar (Wajib Diskusi Terlebih Dahulu!)
 Digunakan saat pengguna membawa ide/tema kampanye besar (misal: *"Launching Photobox Baru"*, *"Spesial Hari Valentine"*, *"Tips Kencan Anti Mati Gaya"*):
 ```
 [User Input Topik Besar]
        ↓
-Visualisasi Diagram Percabangan Ide (Mermaid Tree Diagram)
+Putaran 1: Tanggapan Awal & 2-3 Pertanyaan Pemantik Diskusi (Target? Cabang? Goal?)
        ↓
-Pecah ke Pertanyaan Audiens (Dimana, Kapan, Apa Fiturnya, Berapa Biayanya)
+[User Menjawab & Memberi Arah Diskusi]
        ↓
-Pemetaan Sudut Spesifik ke Format Konten (Reels/TikTok vs Carousel)
+Putaran 2: Visualisasi Diagram Percabangan Ide (Mermaid Tree Diagram Terkurasi)
        ↓
-[User Memilih Ranting yang Ingin Dieksekusi] → Masuk ke Fase 2 & Fase 3
+[User Memilih Ranting yang Ingin Dieksekusi] → Masuk ke Fase 2 (A/B Testing) & Fase 3
 ```
 
 ### 2. Pintu Masuk B: Bedah Langsung Cabang (SOP 3 Fase)
