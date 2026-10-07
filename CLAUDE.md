@@ -56,7 +56,7 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
 3. **Fase 3 (Draft Final & Brief Siap Pakai)**:
    - Input: Validasi persetujuan ("Sah", "Setuju", "Bungkus", dll).
    - Output: Paket brief lengkap:
-     1. 📌 **Brief Singkat Tim Konten (Internal)**
+     1. 📌 **Brief Tim Video (Jika Opsi A)** atau 🎨 **Brief Desainer Grafis Feed/Carousel (Jika Opsi B)**
      2. 📱 **Brief Singkat KOL / Micro-Influencer (WhatsApp Ready)**
      3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**
    - Wajib diakhiri dengan: `"Draf brief untuk Tim Konten dan KOL sudah siap dieksekusi!"`
