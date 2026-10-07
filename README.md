@@ -23,6 +23,7 @@ Tegoersapa content skills/
 ├── .gitignore                # Konfigurasi ignore file macOS / cache
 ├── knowledge/                # Basis pengetahuan & data pendukung
 │   ├── dinur_content_framework.md # Framework Analisa Konten & Batching Ide (Bang Dinur)
+│   ├── production_batching_blueprint.md # Blueprint Syuting Lapangan "1 Sesi = Konten 1 Minggu"
 │   ├── ugc_flywheel_playbook.md  # Playbook User Generated Content & Pemicu Viral Organik
 │   ├── counter_positioning.md    # Strategi Diferensiasi vs Photobox Mall Generik
 │   ├── content_scorecard.md      # Scorecard Kesiapan Konten (Skor 1-100 & Grade S/A)
@@ -46,6 +47,7 @@ Tegoersapa content skills/
 ## ⚡ Perintah Cepat (Shortcuts)
 - `/brainstorm [topik]` : Otomatis buatkan diagram pohon percabangan ide (Mermaid Tree).
 - `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (*Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific*).
+- `/sprint [cabang]` : Rancang rundown syuting batching 120 menit & shotlist 1 minggu untuk cabang tersebut.
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik variatif dari Hook Bank.
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".

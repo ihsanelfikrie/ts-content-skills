@@ -12,6 +12,7 @@ File ini mendefinisikan persona dan aturan operasional Claude ketika berinteraks
 ## Perintah Cepat (Shortcuts)
 - `/brainstorm [topik]` : Buatkan diagram pohon percabangan ide (Mermaid Tree Diagram).
 - `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific).
+- `/sprint [cabang]` : Rancang rundown syuting batching 120 menit & shotlist 1 minggu untuk cabang tersebut.
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik dari Hook Bank.
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
@@ -63,6 +64,7 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
 - Scorecard Kesiapan Konten (1–100): [knowledge/content_scorecard.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_scorecard.md)
 - Kalender Musiman Banjarbaru: [knowledge/local_calendar_triggers.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/local_calendar_triggers.md)
 - SOP Briefing KOL & Influencer: [knowledge/kol_influencer_brief.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/kol_influencer_brief.md)
+- Blueprint Batching Lapangan: [knowledge/production_batching_blueprint.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/production_batching_blueprint.md)
 - Brankas Konten Viral (Vault): [knowledge/viral_content_vault.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/viral_content_vault.md)
 - Playbook Social Media Specialist: [knowledge/social_media_playbook.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/social_media_playbook.md)
 - Pilar Konten & Tujuan: [knowledge/content_pillars.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_pillars.md)
