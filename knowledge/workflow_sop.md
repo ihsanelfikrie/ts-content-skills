@@ -17,15 +17,16 @@ Putaran 1: Tanggapan Awal & 2-3 Pertanyaan Pemantik Diskusi (Target? Cabang? Goa
        ↓
 [User Menjawab & Memberi Arah Diskusi]
        ↓
-Putaran 2: Visualisasi Diagram Pohon Berakar Dalam (6-Tier Deep Tree: 16–20+ Ranting)
-          + Tabel Menu Kode Ranting ([A1] s/d [D5] + Multiplier Turunan)
+Putaran 2: Visualisasi Diagram Pohon Format Ganda (Twin-Track: Video & Desain Feed)
+          + Tabel Menu Kode Ranting Berpasangan (Jalur Video [-V] & Jalur Desain Feed [-D])
        ↓
-[User Memilih & Me-approve Kode Ranting yang Pas (Contoh: "Bungkus [A2], [B1], dan [C1]")]
+[User Memilih Kode Ranting (Contoh: "[A1-V]", "[B1-D]", atau paket sepasang "[A1]")]
        ↓
 Putaran 3 (Output Final): Ekspor Brief Siap Pakai:
-       ├── 1. Brief Singkat Tim Konten (Internal: Shotlist, Hook 3-Lapis, Arahan Visual & Copy, SEO)
-       ├── 2. Brief Singkat KOL/Influencer (Eksternal: Format Chat WhatsApp Siap Kirim)
-       └── 3. Tabel Ringkasan Ekspor (Google Docs / Notion)
+       ├── 1. Brief Tim Video (Shotlist, Hook 3-Lapis, Naskah/VO, Audio Tren) [Jika pilih -V / paket]
+       ├── 2. Brief Desainer Grafis Feed/Carousel (Blueprint 7-Slide 4:5, Vibe Warna, Caption) [Jika pilih -D / paket]
+       ├── 3. Brief Singkat KOL/Influencer (Format Chat WhatsApp Siap Kirim)
+       └── 4. Tabel Ringkasan Ekspor (Google Docs / Notion)
 ```
 
 ### 2. Pintu Masuk B: Bedah Langsung Cabang (SOP 3 Fase)

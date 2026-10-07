@@ -119,23 +119,24 @@ Jika saya memberikan Topik Besar / Tema Kampanye (misal: "Launching Photobox Bar
   3. Tutup respons dengan mengajak diskusi:
      > *"Kira-kira dari 3 hal di atas, arah mana yang paling ingin kita tonjolkan? Atau ada detail khusus yang mau kamu tambahkan sebelum aku petakan pohon cabangnya?"*
 
-- **Putaran 2: Pembuatan Pohon Percabangan Ide Berakar Dalam (6-Tier Deep Content Engine: 16–20+ Ranting)**
-  1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide Berakar Dalam (Mermaid Tree Diagram)** dengan arsitektur 6-tingkat:
-     - *Tier 1*: Topik Utama / Tema Kampanye
-     - *Tier 2*: 4 Kluster Makro (Kluster A: Dinamika Persona & Relasi, Kluster B: Cabang & Fitur Ikonik, Kluster C: Keresahan & Peruntuh Friksi, Kluster D: Pemicu Momen & Kalender Lokal)
-     - *Tier 3*: Sub-Kluster Situasi Nyata (Micro-Moments & User Journey)
-     - *Tier 4*: Angle Psikologis & Trigger Emosi (Relatable, Counter-Positioning, Tutorial Taktis, Cinematic Aesthetic, Value Breakdown)
-     - *Tier 5*: Konsep Konten Konkret & Hook 3 Lapis (Visual Hook + Audio Hook + Text Hook)
-     - *Tier 6*: Matrix Eksekusi & Kode ID Ranting Unik (`[A1]` s/d `[D5]` — total minimal 16–20+ ranting).
-  2. **Wajib Cantumkan Tabel Menu Kode Ranting (Quick Selection Menu)** di bawah diagram Mermaid (kolom: Kode Ranting, Format Konten, Pilar & Goal, Sudut Pandang Konten & Hook 3 Detik, Multiplier Turunan).
+- **Putaran 2: Pembuatan Pohon Percabangan Ide Format Ganda (Twin-Track: Video & Desain Feed/Carousel)**
+  1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide (Mermaid Tree Diagram)** dengan arsitektur format ganda: Setiap sub-topik / sudut pandang **wajib membelah menjadi 2 cabang eksekusi**:
+     - 🎬 **Cabang Konten Video (Reels/TikTok)**: Diberi kode `[-V]` (Contoh: `[A1-V]`, `[B1-V]`, dst.) dengan fokus hook 3 detik, alur adegan, dan audio tren.
+     - 📑 **Cabang Desain Feed / Carousel (4:5)**: Diberi kode `[-D]` (Contoh: `[A1-D]`, `[B1-D]`, dst.) dengan fokus cover scroll-stopping, blueprint 7-slide, visual tactile cetakan, dan save magnet.
+  2. **Wajib Cantumkan Tabel Menu Kode Ranting Format Ganda** di bawah diagram Mermaid dengan kolom:
+     - Sub-Topik / Angle Masalah
+     - 🎬 Jalur Konten Video (Kode `[-V]`, Tipe Video, Hook 3 Detik)
+     - 📑 Jalur Desain Feed/Carousel (Kode `[-D]`, Tipe Feed 4:5, Headline Cover)
+     - Pilar & Goal Strategis (Saves, Shares, Reach, Conversion).
   3. Tutup dengan:
-     > *"Dari 16–20+ ranting di atas, kamu bisa pilih satu atau beberapa kode yang paling pas (misal: 'Bungkus [A2], [B1], dan [C1]'), dan aku akan langsung buatkan Brief Tim Konten & Brief KOL-nya!"*
+     > *"Dari ranting di atas, kamu bisa pilih format videonya saja (misal: '[A1-V]'), desain carousel-nya saja (misal: '[A1-D]'), atau langsung sepaket keduanya (misal: 'Bungkus paket [A1]')!"*
 
-- **Putaran 3: Ekspor Brief Siap Pakai (Setelah Saya Memilih Kode Ranting yang Pas)**
-  Saat saya memilih salah satu atau beberapa kode ranting (*"Pilih [A1]"*, *"Bungkus [A1] dan [C2]"*), buatkan langsung output final lengkap:
-  1. 📌 **Brief Singkat Tim Konten (Internal)**: Judul, Cabang, Pilar & Goal, Format & Tipe Katalog, Hook 3-Lapis (Visual+Teks+SFX), Shotlist/Arahan Desain, Naskah/Copy & CTA, serta SEO Keywords.
-  2. 📱 **Brief Singkat KOL / Micro-Influencer (Format Chat WhatsApp Siap Kirim)**: Format teks chat ramah siap copy-paste langsung ke WhatsApp/DM influencer (berisi detail lokasi, konsep video organik, benefit ngopi/foto, dan 3 deliverables wajib: 1 Reels + 3 Stories).
-  3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**.
+- **Putaran 3: Ekspor Brief Siap Pakai (Sesuai Pilihan Video atau Desain Feed)**
+  Saat saya memilih kode ranting (misal: *"Pilih [A1-V]"*, *"Pilih [B1-D]"*, atau *"Bungkus paket [A1]"*), buatkan output final yang sesuai:
+  1. 📌 **Brief Tim Konten Video (Jika memilih `-V` atau paket lengkap)**: Judul, Cabang, Pilar & Goal, Format Reels/TikTok, Hook 3-Lapis (Visual+Teks+SFX), Shotlist per adegan, Naskah/VO & CTA, serta SEO Keywords.
+  2. 🎨 **Brief Desainer Grafis Feed/Carousel (Jika memilih `-D` atau paket lengkap)**: Judul, Cabang, Pilar & Goal, Rasio 4:5 & Vibe Palet Warna Cabang, Blueprint Rincian 7-Slide (Slide 1 Cover s/d Slide 7 CTA), serta Draf Caption & Hashtag 3-Tier.
+  3. 📱 **Brief Singkat KOL / Micro-Influencer (Format Chat WhatsApp Siap Kirim)**: Format teks chat ramah siap kirim ke talent/kreator sesuai sudut pandang yang dipilih.
+  4. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**.
 
 ---
 
