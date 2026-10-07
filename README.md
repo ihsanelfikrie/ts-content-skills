@@ -23,6 +23,9 @@ Tegoersapa content skills/
 ├── .gitignore                # Konfigurasi ignore file macOS / cache
 ├── knowledge/                # Basis pengetahuan & data pendukung
 │   ├── dinur_content_framework.md # Framework Analisa Konten & Batching Ide (Bang Dinur)
+│   ├── ugc_flywheel_playbook.md  # Playbook User Generated Content & Pemicu Viral Organik
+│   ├── counter_positioning.md    # Strategi Diferensiasi vs Photobox Mall Generik
+│   ├── content_scorecard.md      # Scorecard Kesiapan Konten (Skor 1-100 & Grade S/A)
 │   ├── branches.md           # Detail spesifikasi 5 cabang & fitur khasnya
 │   ├── viral_content_vault.md # Brankas Konten Viral (5 Serial Konten, Subkultur Estetika, Anti-Friksi)
 │   ├── social_media_playbook.md # Playbook Social Media Specialist (Algoritma, SEO, Psikologi Viral)
@@ -44,6 +47,8 @@ Tegoersapa content skills/
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik variatif dari Hook Bank.
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".
+- `/score [ide]` : Menilai kelayakan konsep konten dengan Scorecard Kesiapan Konten (1–100).
+- `/ugc [cabang]` : Berikan 3 rekomendasi aktivasi User Generated Content di lokasi bilik foto.
 - `/tukar` : Berikan variasi/alternatif format baru untuk Opsi A atau Opsi B di Fase 2.
 
 ---

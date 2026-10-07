@@ -90,6 +90,13 @@ Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih form
 - **Struktur Copywriting per Slide**: Penjabaran konten slide demi slide sampai CTA penutup.
 - **Arahan Elemen Visual**: Rekomendasi palet warna (Hex/deskripsi warna), ornamen grafis/elemen vektor, layout gambar, dan font mood.
 
+---
+
+### 📊 Scorecard Kesiapan Konten (Skor 1–100)
+Tampilkan evaluasi audit cepat berdasarkan 4 pilar (Hook Power, Relatability, Production Ease, Conversion Impact):
+- **Opsi A (Video Reels)**: **[Skor/100] ([Grade S/A])** — *[1 kalimat alasan penilaian]*
+- **Opsi B (Carousel Feed)**: **[Skor/100] ([Grade S/A])** — *[1 kalimat alasan penilaian]*
+
 - Kalimat penutup standar (WAJIB):
   > **"Ide ini sudah pas, atau ada yang perlu direvisi sebelum masuk draf final?"**
 
