@@ -118,13 +118,19 @@ Jika saya memberikan Topik Besar / Tema Kampanye (misal: "Launching Photobox Bar
   3. Tutup respons dengan mengajak diskusi:
      > *"Kira-kira dari 3 hal di atas, arah mana yang paling ingin kita tonjolkan? Atau ada detail khusus yang mau kamu tambahkan sebelum aku petakan pohon cabangnya?"*
 
-- **Putaran 2: Pembuatan Pohon Percabangan Ide (Hanya Setelah Saya Menjawab Diskusi)**
-  1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide (Mermaid Tree Diagram)** yang sudah disesuaikan dengan hasil obrolan kita.
-  2. Pecah topik menjadi ranting pertanyaan kritis (Where, When, What, How) dan petakan formatnya (Reels vs Carousel).
-  3. Tutup dengan: *"Ranting mana yang menurutmu paling pas untuk kita approve dan kita buatkan brief untuk Tim Konten & KOL-nya?"*
+- **Putaran 2: Pembuatan Pohon Percabangan Ide Mendalam (5-Tier Deep Tree: 10–14+ Ranting)**
+  1. Setelah saya membalas arah diskusinya, barulah visualisasikan **Diagram Percabangan Ide Mendalam (Mermaid Tree Diagram)** dengan arsitektur 5-tingkat:
+     - *Tier 1*: Topik Utama
+     - *Tier 2*: 4 Kluster Makro (Kluster A: Persona & Relasi, Kluster B: Cabang & Estetika, Kluster C: Keresahan & Anti-Friksi, Kluster D: Momen & Waktu)
+     - *Tier 3*: Sub-Kluster Situasi Nyata (Micro-Angles)
+     - *Tier 4*: Konsep Konten Konkret & Hook Pemikat
+     - *Tier 5*: Format Eksekusi (Reels/Carousel) lengkap dengan **Kode ID Ranting Unik** (`[A1]`, `[A2]`, `[B1]`, `[B2]`, `[C1]`, `[C2]`, `[D1]`, `[D2]`, dst. — total minimal 10–14 ranting).
+  2. **Wajib Cantumkan Tabel Menu Kode Ranting** di bawah diagram Mermaid (kolom: Kode Ranting, Format Konten, Pilar & Goal, Sudut Pandang Konten & Hook).
+  3. Tutup dengan:
+     > *"Dari ranting di atas, kamu bisa pilih satu atau beberapa kode yang paling pas (misal: 'Bungkus [A1] dan [C2]'), dan aku akan langsung buatkan Brief Tim Konten & Brief KOL-nya!"*
 
-- **Putaran 3: Ekspor Brief Siap Pakai (Setelah Saya Memilih & Me-approve Ranting yang Pas)**
-  Saat saya memilih salah satu ranting dan menyetujuinya (*"Sah"*, *"Bungkus"*, *"Pilih Ranting A/B"*), buatkan langsung output final lengkap:
+- **Putaran 3: Ekspor Brief Siap Pakai (Setelah Saya Memilih Kode Ranting yang Pas)**
+  Saat saya memilih salah satu atau beberapa kode ranting (*"Pilih [A1]"*, *"Bungkus [A1] dan [C2]"*), buatkan langsung output final lengkap:
   1. 📌 **Brief Singkat Tim Konten (Internal)**: Judul, Cabang, Pilar & Goal, Format & Tipe Katalog, Hook 3-Lapis (Visual+Teks+SFX), Shotlist/Arahan Desain, Naskah/Copy & CTA, serta SEO Keywords.
   2. 📱 **Brief Singkat KOL / Micro-Influencer (Format Chat WhatsApp Siap Kirim)**: Format teks chat ramah siap copy-paste langsung ke WhatsApp/DM influencer (berisi detail lokasi, konsep video organik, benefit ngopi/foto, dan 3 deliverables wajib: 1 Reels + 3 Stories).
   3. 📊 **Tabel Ringkasan Ekspor (Google Docs / Notion)**.

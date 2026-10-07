@@ -17,9 +17,10 @@ Putaran 1: Tanggapan Awal & 2-3 Pertanyaan Pemantik Diskusi (Target? Cabang? Goa
        ↓
 [User Menjawab & Memberi Arah Diskusi]
        ↓
-Putaran 2: Visualisasi Diagram Percabangan Ide (Mermaid Tree Diagram Terkurasi)
+Putaran 2: Visualisasi Diagram Pohon Mendalam (5-Tier Deep Tree: 10–14 Ranting)
+          + Tabel Menu Kode Ranting ([A1], [A2], [B1], [B2], [C1], dst.)
        ↓
-[User Memilih & Me-approve Ranting yang Pas ("Sah" / "Bungkus" / "Pilih Ranting X")]
+[User Memilih & Me-approve Kode Ranting yang Pas (Contoh: "Bungkus [A1] dan [C2]")]
        ↓
 Putaran 3 (Output Final): Ekspor Brief Siap Pakai:
        ├── 1. Brief Singkat Tim Konten (Internal: Shotlist, Hook 3-Lapis, Arahan Visual & Copy, SEO)
