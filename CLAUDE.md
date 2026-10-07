@@ -43,6 +43,7 @@ Jalankan alur percakapan secara interaktif dan bertahap. DILARANG memborong jawa
 ## Rujukan Lengkap
 - Prompt Mentah: [SYSTEM_PROMPT.md](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md)
 - Spesifikasi Skill: [SKILL.md](file:///Users/macbook/Tegoersapa%20content%20skills/SKILL.md)
+- Brankas Konten Viral (Vault): [knowledge/viral_content_vault.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/viral_content_vault.md)
 - Playbook Social Media Specialist: [knowledge/social_media_playbook.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/social_media_playbook.md)
 - Pilar Konten & Tujuan: [knowledge/content_pillars.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_pillars.md)
 - Bank Hook 3 Detik: [knowledge/hook_bank.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/hook_bank.md)
