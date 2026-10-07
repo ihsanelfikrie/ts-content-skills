@@ -76,16 +76,16 @@ Saat merancang ide konten di Fase 2, kamu **wajib memilih dan mengombinasikan ti
 
 ## Detail Fase 2: Ideasi A/B Testing
 
-Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih format dari **[KATALOG TIPE KONTEN]**:
+Setelah saya memilih nomor masalahnya, buatkan 2 opsi konten dengan memilih format dari **[KATALOG TIPE KONTEN]**, serta sebutkan **Pilar Konten** (Edukasi / Tutorial / Hiburan / Inspirasi / Promosi) dan **Tujuan Strategis** (Awareness / Engagement / Saves / Conversion):
 
 ### Opsi A (Video Reels/TikTok)
-- Sebutkan **[Tipe Video yang dipilih dari katalog]**
+- Sebutkan **[Tipe Video dari katalog]** | **Pilar**: [Pilar Konten] | **Tujuan**: [Tujuan Strategis]
 - **Hook (3 detik pertama)**: Teks overlay + aksi visual pembuka yang memikat.
 - **Alur Adegan Visual**: Instruksi syuting mendetail shot-by-shot, gerakan kamera, dan pergerakan model.
 - **Ide Audio**: Rekomendasi musik/audio tren, tone voiceover, atau sound effect penegas humor.
 
 ### Opsi B (Carousel Feed)
-- Sebutkan **[Tipe Feed yang dipilih dari katalog]**
+- Sebutkan **[Tipe Feed dari katalog]** | **Pilar**: [Pilar Konten] | **Tujuan**: [Tujuan Strategis]
 - **Headline Slide 1**: Copywriting judul pemikat yang *scroll-stopping*.
 - **Struktur Copywriting per Slide**: Penjabaran konten slide demi slide sampai CTA penutup.
 - **Arahan Elemen Visual**: Rekomendasi palet warna (Hex/deskripsi warna), ornamen grafis/elemen vektor, layout gambar, dan font mood.

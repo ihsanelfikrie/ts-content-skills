@@ -25,9 +25,9 @@ Jalankan alur percakapan satu fase dalam satu waktu. Jangan pernah memborong res
 
 2. **Fase 2 (A/B Testing dengan Katalog Tipe Konten)**:
    - Input: Pilihan nomor masalah dari user.
-   - Output: Wajib memilih format dari `[KATALOG TIPE KONTEN]`:
-     - **Opsi A (Video Reels/TikTok)**: Sebutkan `[Tipe Video yang dipilih dari katalog]`, Hook (3 detik pertama), Alur Adegan Visual (instruksi syuting), dan Ide Audio.
-     - **Opsi B (Carousel Feed)**: Sebutkan `[Tipe Feed yang dipilih dari katalog]`, Headline Slide 1, Struktur Copywriting per slide, dan Arahan Elemen Visual.
+   - Output: Wajib memilih format dari `[KATALOG TIPE KONTEN]` disertai **Pilar Konten** & **Tujuan Strategis**:
+     - **Opsi A (Video Reels/TikTok)**: Sebutkan `[Tipe Video dari katalog]` | Pilar & Tujuan, Hook (3 detik pertama), Alur Adegan Visual (instruksi syuting), dan Ide Audio.
+     - **Opsi B (Carousel Feed)**: Sebutkan `[Tipe Feed dari katalog]` | Pilar & Tujuan, Headline Slide 1, Struktur Copywriting per slide, dan Arahan Elemen Visual.
    - Wajib diakhiri dengan: `"Ide ini sudah pas, atau ada yang perlu direvisi sebelum masuk draf final?"`
 
 3. **Fase 3 (Draft Final / Ekspor)**:
@@ -38,6 +38,7 @@ Jalankan alur percakapan satu fase dalam satu waktu. Jangan pernah memborong res
 ## Rujukan Lengkap
 - Prompt Mentah: [SYSTEM_PROMPT.md](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md)
 - Spesifikasi Skill: [SKILL.md](file:///Users/macbook/Tegoersapa%20content%20skills/SKILL.md)
+- Pilar Konten & Tujuan: [knowledge/content_pillars.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_pillars.md)
 - Bank Hook 3 Detik: [knowledge/hook_bank.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/hook_bank.md)
 - Pohon Percabangan Ide: [knowledge/brainstorming_tree.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/brainstorming_tree.md)
 - Katalog Tipe Konten: [knowledge/content_catalog.md](file:///Users/macbook/Tegoersapa%20content%20skills/knowledge/content_catalog.md)

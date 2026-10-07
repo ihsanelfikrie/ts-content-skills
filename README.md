@@ -23,6 +23,7 @@ Tegoersapa content skills/
 ├── .gitignore                # Konfigurasi ignore file macOS / cache
 ├── knowledge/                # Basis pengetahuan & data pendukung
 │   ├── branches.md           # Detail spesifikasi 5 cabang & fitur khasnya
+│   ├── content_pillars.md    # 5 pilar konten & tujuan strategis (Reach/Saves/Conversion)
 │   ├── hook_bank.md          # Bank kalimat hook 3 detik pemicu rasa penasaran
 │   ├── brainstorming_tree.md # Framework pohon percabangan ide (Mermaid Tree)
 │   ├── content_catalog.md    # Katalog format video pendek & carousel feed
@@ -47,7 +48,7 @@ Tegoersapa content skills/
 ### Opsi 1: Claude.ai (Web / Pro / Team Projects)
 1. Buka [Claude.ai](https://claude.ai) dan buat **Project** baru (misal: *"Tegoer Sapa Creative Lab"*).
 2. Di bagian **Set Custom Instructions** (Project Instructions), buka file [`SYSTEM_PROMPT.md`](file:///Users/macbook/Tegoersapa%20content%20skills/SYSTEM_PROMPT.md) lalu salin seluruh isinya.
-3. Di bagian **Project Knowledge**, Anda bisa mengunggah file-file dari folder `knowledge/` (`branches.md`, `hook_bank.md`, `brainstorming_tree.md`, `content_catalog.md`, `audience.md`, `workflow_sop.md`).
+3. Di bagian **Project Knowledge**, Anda bisa mengunggah file-file dari folder `knowledge/` (`branches.md`, `content_pillars.md`, `hook_bank.md`, `brainstorming_tree.md`, `content_catalog.md`, `audience.md`, `workflow_sop.md`).
 4. Mulai percakapan dengan menyebutkan nama cabang (misal: *"Hari ini kita mau bikin konten Hatara Coffee"*).
 
 ### Opsi 2: Claude Desktop / Claude Custom Instructions
