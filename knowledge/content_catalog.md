@@ -36,6 +36,16 @@ Katalog ini wajib dijadikan rujukan saat merancang opsi konten pada **Fase 2 (Id
 - **Contoh Hook / Sudut**: Transisi hentakan musik saat menyentuh cermin gelombang hijau Nolima.
 - **Kelebihan**: Visual memukau, retensi tontonan tinggi.
 
+### G. Silent Review / Visual ASMR
+- **Definisi**: Format video tanpa voiceover/kata-kata sama sekali (*zero talking*), hanya mengandalkan ekspresi wajah (angguk, jempol, geleng) dan suara ambient (*foley/ASMR*) seperti klik saklar lampu, geseran tirai, dan bunyi kertas cetak keluar.
+- **Contoh Hook / Sudut**: Talent mengetuk lensa kamera lalu menunjukkan kartu antrean dan masuk bilik foto dengan ekspresi santai.
+- **Kelebihan**: Sangat disukai Gen Z yang lelah dengan video bising, watch time mendekati 100%.
+
+### H. Unhinged / Chaotic Admin Skit
+- **Definisi**: Skit komedi bergaya satir/chaotic di mana tim konten/admin bersikap seperti teman tongkrongan yang sedikit absurd, menertawakan kelakuan sendiri atau me-recreate meme viral.
+- **Contoh Hook / Sudut**: *"Cobain gaya foto paling di luar nalar yang pernah ditinggal customer di photobox 😭"*
+- **Kelebihan**: Menghancurkan 'Bullshit Detector' Gen Z, membangun koneksi parasosial yang sangat erat.
+
 ---
 
 ## 2. Kategori Feed (Carousel / Single Post)
@@ -64,6 +74,11 @@ Katalog ini wajib dijadikan rujukan saat merancang opsi konten pada **Fase 2 (Id
 - **Definisi**: Desain visual bold yang mengedepankan angka harga terjangkau (Rp25.000 / Rp33.000 / Rp35.000), promo khusus hari tertentu, atau peluncuran frame musiman.
 - **Contoh Headline**: *"Cuma 25 Ribu Udah Dapet Foto Cetak Estetik? Nih Lokasinya di Aime Coffee!"*
 - **Kelebihan**: Mendorong konversi cepat bagi audiens yang sensitif harga.
+
+### F. Photo Dump Carousel (Lo-Fi Feed Storytelling)
+- **Definisi**: Kumpulan 5–7 foto kasual ala kamera HP tanpa over-editing, bercerita tentang momen hangout santai dari ngopi hingga photobox, dipadukan headline minimalis dan slide penutup berupa meme.
+- **Contoh Headline**: *"Kencan modal 30 ribu tapi memorinya seumur hidup (A photo dump in Banjarbaru)."*
+- **Kelebihan**: Native dengan kebiasaan Gen Z, estetika raw yang memicu rasa hangat dan keinginan berkunjung.
 
 ---
 

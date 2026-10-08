@@ -22,6 +22,12 @@ Tegoersapa content skills/
 ├── CLAUDE.md                 # Petunjuk operasional Claude saat bekerja di repo ini
 ├── .gitignore                # Konfigurasi ignore file macOS / cache
 ├── knowledge/                # Basis pengetahuan & data pendukung
+│   ├── neuro_copywriting_and_virality.md # Playbook Neuro-Copywriting, Retensi Layar & Rekayasa Viralitas STEPPS
+│   ├── gen_z_copywriting_playbook.md # Playbook Copywriting & Strategi Konten Gen Z (Bullshit Detector, Lo-Fi, Unhinged)
+│   ├── global_photobooth_trends.md # Playbook "Korean Photobooth" & Global Experience Economy
+│   ├── competitor_playbook.md    # Bedah Strategi Kompetitor Raksasa (Photomatic, Selfie Time)
+│   ├── masterclass_psychology_and_sociology.md # Masterclass: Sosiologi "Third Place" & Cult Branding
+│   ├── advanced_o2o_ai_strategy.md # Strategi O2O 2026, Predictive AI, & Somatic Copywriting
 │   ├── feed_carousel_playbook.md # Playbook Konten Feed & Carousel (Blueprint 7-Slide & Desain Grafis)
 │   ├── dinur_content_framework.md # Framework Analisa Konten & Batching Ide (Bang Dinur)
 │   ├── production_batching_blueprint.md # Blueprint Syuting Lapangan "1 Sesi = Konten 1 Minggu"
@@ -50,6 +56,11 @@ Tegoersapa content skills/
 - `/batching [topik]` : Susun bank ide mingguan dengan metode 5 funnel langkah Bang Dinur (*Niche ➔ Value ➔ Pillar ➔ Generic ➔ Specific*).
 - `/sprint [cabang]` : Rancang rundown syuting batching 120 menit & shotlist 1 minggu untuk cabang tersebut.
 - `/bedah [nama cabang]` : Langsung masuk ke Fase 1 (Discovery) untuk cabang tersebut.
+- `/neuro [topik/cabang]` : Bedah konsep konten menggunakan neuro-copywriting (kata sensorik, open loop, pacing J-cut, & STEPPS).
+- `/genz [topik/cabang]` : Dapatkan rekomendasi sudut pandang copywriting, hook, & format native Gen Z (Lo-Fi, POV, Anti-Ad, Unhinged).
+- `/advanced [topik/cabang]` : Terapkan strategi mutakhir 2026 (O2O Hyper-Local, Dark Social, Predictive AI Testing, Somatic Copywriting).
+- `/korean [topik/cabang]` : Terapkan strategi "Korean Photobooth Playbook" (The Prep Aesthetic, FOMO Frame, Physical Keepsake).
+- `/masterclass [topik/cabang]` : Suntikkan narasi sosiologi "Third Place", psikologi harga "Decoy Effect", dan "Cult Branding".
 - `/carousel [topik/cabang]` : Buatkan blueprint konten Carousel 7-Slide lengkap siap desain grafis (Rasio 4:5, visual mood, headline, isi, bukti cetak, CTA & caption).
 - `/hook [cabang/topik]` : Tampilkan 5 opsi hook 3 detik variatif dari Hook Bank.
 - `/evaluasi [data/grafik/masalah]` : Bedah performa konten menggunakan kurva retensi Bang Dinur dan analisa "So What?".

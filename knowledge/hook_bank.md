@@ -84,6 +84,19 @@ Koleksi kalimat pembuka (*hook*) visual/teks 3 detik pertama untuk Video Reels/T
 
 ---
 
+## ⚡ Kategori 6: Hook Gaya Gen Z (Unhinged, Lo-Fi & Anti-Ad)
+*Psikologi: Menembus 'Bullshit Detector' Gen Z dengan nada bicara teman tongkrongan, kejujuran raw, dan humor satir.*
+
+1. *"Stop scrolling kalau tiap diajak foto kamu selalu bingung tangannya harus ditaruh di mana."*
+2. *"Jujurly agak nyesel baru tahu kalau bilik foto di Kean Coffee bisa retake sepuasnya..."*
+3. *"POV: Maksa cowok kamu masuk photobox, endingnya dia yang paling heboh milih frame 😭"*
+4. *"Jangan pernah ajak bestie lu ke sini kalau kalian tipe yang gak bisa berhenti ketawa pas timer jalan."*
+5. *"Tipe-tipe orang pas hitungan mundur photobox: si panik, si mati gaya, sama si merem (kamu yang mana?)."*
+6. *"Ngedate hemat modal 25 ribu di Banjarbaru yang hasilnya gak kelihatan kalau lagi tanggal tua."*
+7. *"Rate hasil photobox kita dari 1–10 (nomor 3 agak di luar nalar sih 💀👇)."*
+
+---
+
 ## 🔬 Rumus Formula Anatomi Hook 3 Detik
 
 Gunakan salah satu formula ini saat merancang kalimat pembuka baru:
@@ -96,18 +109,23 @@ Gunakan salah satu formula ini saat merancang kalimat pembuka baru:
 3. **Formula "Perbandingan Kontras"**:  
    `[Dikira / Mitos] + [Padahal Fakta Sebenarnya]`  
    *Contoh*: "Dikira bayar 50 ribu, ternyata cuma 25 ribu udah dapet cetak estetik."
+4. **Formula "The Knowledge Gap (Gen Z Native)"**:  
+   `[Ternyata Cuma X% Orang yang Tahu] + [Hack / Fitur Rahasia Cabang]`  
+   *Contoh*: "Ternyata cuma 5% orang yang tahu tombol spotlight di Room 605 bikin wajah glowing seketika."
 
 ---
 
 ## 📢 Bank Kalimat Call-to-Action (CTA) Penutup
 
-Sesuaikan kalimat penutup naskah/slide dengan tujuan konten:
-- **Untuk Memicu Saves (Pilar Tutorial/Edukasi)**:
+Sesuaikan kalimat penutup naskah/slide dengan tujuan konten (utamakan gaya **Low-Friction** yang tidak memaksa):
+- **Untuk Memicu Saves (Pilar Tutorial/Edukasi & Algoritma Booster)**:
   - *"Save postingan ini biar nggak panik pas udah di dalem bilik foto!"*
-  - *"Simpan panduan ini buat referensi ngedate akhir pekan kamu."*
-- **Untuk Memicu Komentar & Shares (Pilar Hiburan)**:
+  - *"Simpan dulu buat contekan ngedate hemat akhir pekan kamu."*
+- **Untuk Memicu Komentar & Shares (Pilar Hiburan / Viralitas Tinggi)**:
   - *"Tag bestie kamu yang kalau diajak foto selalu minta retake berkali-kali!"*
-  - *"Kirim ke doi yang anti-kamera biar mau diajakin photobox weekend ini."*
-- **Untuk Kunjungan Langsung (Pilar Promosi)**:
-  - *"Langsung meluncur ke Aime Coffee hari ini, jangan sampai kehabisan slot frame kalender!"*
+  - *"Kirim ke grup tanpa konteks, besok langsung gas!"*
+  - *"Kamu tim frame vintage koran atau frame ayam jago? Drop pilihanmu di komen 👇"*
+- **Untuk Kunjungan Langsung (Pilar Promosi / Foot Traffic)**:
+  - *"Weekend ini udah tau kan mau ngopi di mana? Lokasi bilik fotonya cek di bio ya!"*
   - *"Ajak circle kamu ke Nolima sekarang, cobain Twin Photobox pertama di Banjarbaru!"*
+

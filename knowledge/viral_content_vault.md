@@ -4,7 +4,7 @@ Dokumen ini adalah brankas strategi tingkat mahir (*advanced level*) untuk menge
 
 ---
 
-## 📺 1. Lima Serial Konten Berulang (Repeatable Content Franchises)
+## 📺 1. Serial Konten Berulang (FYP Proven Franchises)
 
 Akun media sosial yang bertumbuh pesat tidak hanya mengandalkan ide acak sekali jalan, melainkan membangun **"Serial Konten"** yang ditunggu-tunggu audiens setiap minggunya:
 
@@ -32,6 +32,21 @@ Akun media sosial yang bertumbuh pesat tidak hanya mengandalkan ide acak sekali 
 - **Konsep**: Kurasi inspirasi gaya berpakaian (*outfit coordination*) yang cocok dengan latar belakang bilik foto (misal: gaya earth tone untuk Hatara, gaya retro indie untuk Sirkem).
 - **Daya Tarik**: Menyelesaikan kebingungan audiens: *"Mau foto tapi bingung pakai baju apa?"*.
 - **Format**: Carousel Grid Lookbook / Video Trend Transisi OOTD.
+
+### F. Serial 6: "Soulmate / Compatibility Test" (Pilar Hiburan / FYP Proven)
+- **Konsep**: Pasangan atau bestie masuk ke bilik, lalu mereka harus menjawab 3 pertanyaan cepat ("Siapa yang lebih sering ngaret?", "Siapa yang paling boros?"). Sambil tertawa menunjuk satu sama lain, kamera menjepret foto candid mereka.
+- **Daya Tarik**: Interaktif tingkat tinggi, memicu kolom komentar saling berdebat tentang sifat pasangan/bestie mereka sendiri. Sangat organik dan tidak terlihat seperti iklan.
+- **Format**: Video Skit Pendek / POV dengan teks pertanyaan di layar.
+
+### G. Serial 7: "Stuck in the Booth Challenge" (Pilar UGC / FYP Proven)
+- **Konsep**: Tantangan seru-seruan berdurasi 15 detik di mana pengunjung melakukan transisi baju, mini dance tren TikTok, atau pura-pura tersangkut di dalam bilik yang sempit bersama teman-teman sebelum tirai ditutup.
+- **Daya Tarik**: Format mentah (raw), autentik, dan sangat relevan dengan kebiasaan Gen Z yang suka membuat konten *unhinged* di ruang publik tertutup.
+- **Format**: Video TikTok Trend Audio.
+
+### H. Serial 8: "Hall of Fame / Curated Photo of the Week" (Pilar Community / O2O)
+- **Konsep**: Kompilasi cetakan foto paling unik, paling lucu, atau paling romantis dari pelanggan minggu tersebut (dengan izin).
+- **Daya Tarik**: Memberikan *reward* validasi sosial kepada pelanggan setia dan mendorong pelanggan baru untuk berpose sekreatif mungkin agar masuk "Hall of Fame".
+- **Format**: Carousel Slide atau Video Kompilasi Cepat (Beat Sync).
 
 ---
 

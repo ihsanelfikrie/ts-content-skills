@@ -78,6 +78,15 @@ Saat merancang naskah video atau teks per-slide carousel, gunakan salah satu dar
 - **Desire (Slide 4-5)**: Visual estetika hasil cetak asli yang memicu rasa ingin memiliki.
 - **Action (Slide Akhir)**: Perintah jelas untuk bertindak (*Save / Share / Kunjungi*).
 
+### D. Formula P-O-V & Micro-Narrative (Standar Emas Gen Z)
+*Paling efektif untuk Reels & TikTok video vertikal bernuansa lo-fi.*
+- **Perspective (Hook 0-3s)**: *"POV: Maksa cowok kamu masuk photobox bareng..."*
+- **Obstacle & Emotion (4-8s)**: Cowoknya canggung dan pasrah pose dua jari ✌️.
+- **Victory & Turnaround (9-12s)**: Endingnya cowoknya sendiri yang paling heboh milih frame dan nyelipin foto di casing HP-nya.
+- **Low-Friction CTA (13-15s)**: *"Tag cowok lu yang gengsinya setinggi langit pas diajak foto 😭👇"*
+
+*(Panduan lengkap psikologi & copywriting Gen Z dapat dilihat di `knowledge/gen_z_copywriting_playbook.md`)*
+
 ---
 
 ## 🧠 4. Psikologi Interaksi Gen Z (Relatability & Community Triggers)
@@ -93,6 +102,10 @@ Gunakan sudut pandang yang membela perasaan audiens:
 - Jangan menyalahkan cowok yang kaku, melainkan beri solusi seru: *"Buat cowok yang malas ribet, photobox ini cuma butuh 5 menit dan hasilnya bikin doi senyum seharian."*
 - Memvalidasi dompet akhir bulan: *"Pacaran estetik gak harus mahal nunggu gajian."*
 
+### C. Menembus "Bullshit Detector" (Lo-Fi Authenticity > High-Gloss)
+- Hindari nada bicara korporat/salesy ("Ayo buruan serbu promonya!").
+- Utamakan visual kamera ponsel yang natural (*handheld, candid*) dan interaksi manusia nyata (*admin tongkrongan / chaotic good*) agar konten tidak di-skip dalam 2 detik pertama.
+
 ---
 
 ## 🎨 5. Standar Arahan Produksi untuk Desainer & Video Editor
@@ -106,3 +119,16 @@ Agar arahan di Fase 2 benar-benar siap dieksekusi tanpa kebingungan teknis:
    - Tentukan palet warna (Hex code atau nuansa: *Warm Timber & Cream*, *Retro Red & Green*, *Dark Academia Charcoal*).
    - Pastikan teks di slide tidak menumpuk padat (maksimal 20–30 kata per slide) dengan hierarki tipografi: **Headline Bold > Subheadline > Body Teks Ringkas**.
    - Tambahkan panah penunjuk halus di pojok kanan slide agar memicu jari audiens untuk melakukan *swipe* berikutnya.
+
+---
+
+## 🔬 6. Neuro-Copywriting & Rekayasa Viralitas Lanjutan
+
+Untuk memenangkan persaingan atensi di era algoritma AI semantik:
+- **Prinsip Cognitive Fluency**: Gunakan kata-kata sensorik nyata (*kertas tebal matte, bilik tirai marun, bunyi klik lampu*) daripada istilah abstrak.
+- **Teknik J-Cut Audio**: Biarkan suara ambient printer atau tawa talent masuk 0,5 detik sebelum visual adegan berganti untuk memicu dopamin antisipatorik.
+- **Framework STEPPS Jonah Berger**: Rekayasa penularan ide melalui *Social Currency* (membuat audiens terlihat punya selera), *Triggers* (rutinitas kampus/gajian), *Emotion* (high-arousal amusement/awe), *Public* (casing HP transparan), *Practical Value* (pose/biaya), dan *Stories* (kuda troya narasi).
+- **The Micro-Commitment Funnel**: Eskalasi audiens dari tap stiker story $\rightarrow$ save/share $\rightarrow$ comment trigger kata kunci DM $\rightarrow$ kunjungan fisik.
+
+*(Pelajari pendalaman lengkapnya di `knowledge/neuro_copywriting_and_virality.md`)*
+
